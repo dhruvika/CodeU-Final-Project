@@ -21,7 +21,7 @@ import redis.clients.jedis.Transaction;
  */
 public class JedisIndex {
 
-	private Jedis jedis;
+	private static Jedis jedis;
 
 	/**
 	 * Constructor.
@@ -37,7 +37,7 @@ public class JedisIndex {
 	 * 
 	 * @return Redis key.
 	 */
-	private String urlSetKey(String term) {
+	private static String urlSetKey(String term) {
 		return "URLSet:" + term;
 	}
 	
@@ -46,7 +46,7 @@ public class JedisIndex {
 	 * 
 	 * @return Redis key.
 	 */
-	private String termCounterKey(String url) {
+	private static String termCounterKey(String url) {
 		return "TermCounter:" + url;
 	}
 
@@ -77,7 +77,7 @@ public class JedisIndex {
 	 * @param term
 	 * @return Set of URLs.
 	 */
-	public Set<String> getURLs(String term) {
+	public static Set<String> getURLs(String term) {
 		Set<String> set = jedis.smembers(urlSetKey(term));
 		return set;
 	}
@@ -143,7 +143,9 @@ public class JedisIndex {
 		return new Integer(count);
 	}
 	
-	public Map<String, Integer> getCountsForms(String term){
+	public static Map<String, Integer> getCountsForms(String term){
+//		System.out.println("DEBUGGING FORMS");
+//		System.out.println(term);
 //		System.out.println("Start debugging here.....");
 		Map<String, Integer> counter = new HashMap<String, Integer>();
 		
@@ -159,7 +161,11 @@ public class JedisIndex {
 //		System.out.println("Original tdidf counts: " + tdidf);
 		
 		ArrayList<String> forms = new ArrayList<String>();
-		String last_char = term.substring(term.length() - 1);
+		String last_char = term;
+		if (term.length() > 1){
+			last_char = term.substring(term.length() - 1);
+		}
+		
 //		System.out.println("Last letter of word: " + last_char);
 		
 		// forming dict of terms to add
@@ -211,7 +217,7 @@ public class JedisIndex {
 	
 	// gets relevance score based on tf-idf
 	
-	public Map<String, Integer> getTDIDFCounts(String term) {
+	public static Map<String, Integer> getTDIDFCounts(String term) {
 		Map<String, Integer> counter = new HashMap<String, Integer>();
 		
 		// convert the set of strings to a list so we get the
@@ -459,6 +465,61 @@ public class JedisIndex {
 		}
 		t.exec();
 	}
+	 
+	public static Map<String,Integer> search(String term) {
+		
+		Map<String, Integer> map = getCountsForms(term);
+		return map;
+	}
+	
+	public List<Object> pushTermSearchToRedis(Map<String,Integer> map, String term) {
+		Transaction t = jedis.multi();
+		
+		String hashname = term;
+		
+		// if this page has already been indexed; delete the old hash
+		t.del(hashname);
+
+		// for each URL, add an entry in the dictionary and a new
+		// member of the index
+//		System.out.println(map);
+//		System.out.println(map.keySet());
+		for (String URL: map.keySet()) {
+			Integer count = map.get(URL);
+			System.out.println(count);
+			t.hset(hashname, URL, count.toString());
+			
+		}
+		List<Object> res = t.exec();
+		return res;
+	}
+	
+	public void searchStoreIndex() throws IOException{
+		WikiFetcher wf = new WikiFetcher();
+		List<String> all_terms_ever = new ArrayList<String>();
+		
+		for (String URL: termCounterKeys() ){
+			String url = URL.substring(12);
+			Elements paragraphs = wf.readWikipedia(url);
+			TermCounter tc = new TermCounter(url);
+			tc.processElements(paragraphs);
+			
+			List<String> page_terms = tc.getTerms();
+			for (String term: page_terms){
+				System.out.println("Indexing searches for term: " + term);
+				if (term.length() < 2){
+					continue;
+				}
+				if (all_terms_ever.contains(term) == false){
+					all_terms_ever.add(term);
+					Map<String,Integer> term_map = search(term);
+					pushTermSearchToRedis(term_map,term);
+				}
+			}
+		}
+		
+		
+	}
 
 	/**
 	 * @param args
@@ -471,14 +532,15 @@ public class JedisIndex {
 		
 		//index.deleteTermCounters();
 		//index.deleteURLSets();
-        index.deleteAllKeys();
-//		loadIndex(index);
+//        index.deleteAllKeys();
+		loadIndex(index);
 		
 //		Map<String, Integer> map = index.getCountsFaster("the");
 //		for (Entry<String, Integer> entry: map.entrySet()) {
 //			System.out.println(entry);
 //		}
 	}
+	
 
 	/**
 	 * Stores two pages in the index for testing purposes.
@@ -488,7 +550,6 @@ public class JedisIndex {
 	 */
 	private static void loadIndex(JedisIndex index) throws IOException {
 		WikiFetcher wf = new WikiFetcher();
-	
 
 		String url = "https://en.wikipedia.org/wiki/Java_(programming_language)";
 		Elements paragraphs = wf.readWikipedia(url);
@@ -509,7 +570,7 @@ public class JedisIndex {
 	    url = "https://en.wikipedia.org/wiki/Science";
 	    paragraphs = wf.readWikipedia(url);
 	    index.indexPage(url, paragraphs);
-//		
+
 	    url = "https://en.wikipedia.org/wiki/Mathematics";
 	    paragraphs = wf.readWikipedia(url);
   	    index.indexPage(url, paragraphs);
@@ -521,6 +582,49 @@ public class JedisIndex {
 		url = "https://en.wikipedia.org/wiki/Philosophy";
 		paragraphs = wf.readWikipedia(url);
 		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Juice";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+	
+		url = "https://en.wikipedia.org/wiki/Jaguar";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+	
+		url = "https://en.wikipedia.org/wiki/Chocolate_brownie";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Jealousy";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Piñata";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Death";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Existence";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Terrorism";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		url = "https://en.wikipedia.org/wiki/Politics";
+		paragraphs = wf.readWikipedia(url);
+		index.indexPage(url, paragraphs);
+		
+		System.out.println("Storing searches for words....");
+		index.searchStoreIndex();
+		
+		
+		
+		
 		
 		
 		

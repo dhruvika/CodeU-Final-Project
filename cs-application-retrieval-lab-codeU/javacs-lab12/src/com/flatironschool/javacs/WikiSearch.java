@@ -312,10 +312,24 @@ public class WikiSearch {
 	 * @param index
 	 * @return
 	 */
-	public static WikiSearch search(String term, JedisIndex index) {
+	public static WikiSearch search(String term, JedisIndex index, Jedis jedis) {
 		System.out.println("Starting search........");
 		
-		Map<String, Integer> map = index.getCountsForms(term);
+//		Map<String, Integer> map = index.getCountsForms(term);
+		
+		//new stuff from here
+		
+		Map<String,Integer> map = new HashMap<String,Integer>();
+		for (String URL: index.termCounterKeys() ){
+			String actual_url = URL.substring(12);
+			if (jedis.hget(term, actual_url) != null){
+				map.put(actual_url, Integer.parseInt(jedis.hget(term, actual_url)));
+			}
+			
+		}
+				
+		//new stuff ends here
+		
 		return new WikiSearch(map);
 	}
 
@@ -335,7 +349,7 @@ public class WikiSearch {
 			
 			// search for the first term
 			System.out.println("Query: " + input);
-			WikiSearch search1 = search(input, index);
+			WikiSearch search1 = search(input, index, jedis);
 			
 			if(search1.getTopEntry() != null){
 				search1.print();
