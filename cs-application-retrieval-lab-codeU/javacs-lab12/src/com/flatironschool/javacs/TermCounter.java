@@ -25,11 +25,13 @@ public class TermCounter {
 	private Map<String, Integer> map;
 	private List<String> first_sentence;
 	private String label;
+	private List<String> term_list;
 	
 	public TermCounter(String label) {
 		this.label = label;
 		this.map = new TreeMap<String, Integer>();
 		this.first_sentence = new ArrayList<String>();
+		this.term_list = new ArrayList<String>();
 		//store all words in first paragraph, rank based on sentence, remember to process
 	}
 	
@@ -37,6 +39,9 @@ public class TermCounter {
 		return label;
 	}
 	
+	public List<String> getTerms(){
+		return term_list;
+	}
 	/**
 	 * Returns the total of all counts.
 	 * 
@@ -138,7 +143,12 @@ public class TermCounter {
 		else{
 			put(term, get(term) + 1);
 		}
+		
+		if (term_list.contains(term) == false){
+			term_list.add(term);
+		}
 	}
+	
 	
 	public List<String> getFirstSentence(){
 		return this.first_sentence;

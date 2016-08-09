@@ -281,10 +281,22 @@ public class WikiSearch {
 	 * @param index
 	 * @return
 	 */
-	public static WikiSearch search(String term, JedisIndex index) {
+	public static WikiSearch search(String term, JedisIndex index, Jedis jedis) {		
+//		Map<String, Integer> map = index.getCountsForms(term);
 		
+		//new stuff from here
 		
-		Map<String, Integer> map = index.getCountsForms(term);
+		Map<String,Integer> map = new HashMap<String,Integer>();
+		for (String URL: index.termCounterKeys() ){
+			String actual_url = URL.substring(12);
+			if (jedis.hget(term, actual_url) != null){
+				map.put(actual_url, Integer.parseInt(jedis.hget(term, actual_url)));
+			}
+			
+		}
+				
+		//new stuff ends here
+		
 		return new WikiSearch(map);
 	}
 
@@ -304,12 +316,13 @@ public class WikiSearch {
 			
 			//splits the input into an array of words
 			System.out.println("Query: " + input);
+
 			String[] terms = input.split("\\s+");
 			ArrayList<WikiSearch> searches = new ArrayList<WikiSearch>();
 			//calls search on each term in the list
 			System.out.println("Starting search........");
 			for(String term: terms){
-				searches.add(search(term, index));
+				searches.add(search(term, index, jedis));
 			}
 			//creates the final map that totals up all of the final counts for each URL
 			final Map<String, Integer> totals = new HashMap<String, Integer>();
