@@ -203,8 +203,8 @@ public class JedisIndex {
 	//			System.out.println("Number of entries for word map: " + form_tdidf.size());
 	//			System.out.println("Getting URL entry: "+ form_tdidf.get(URL));
 				if (form_tdidf.get(URL) != null){
-				final_count = final_count + score*form_tdidf.get(URL);
-	//			System.out.println("Count after adding "+ form + final_count);
+					final_count = final_count + score*form_tdidf.get(URL);
+	//				System.out.println("Count after adding "+ form + final_count);
 				}
 			}
 	//		System.out.println("Total count for URL: "+ final_count);
@@ -314,17 +314,16 @@ public class JedisIndex {
 		Elements paragraphs2;
 		int similarity = 0;
 		
-//		System.out.println("ALL KEYS: " + termCounterKeys());
-		
 		// might not be the right list of all urls in the index test this!
 		for (String index_url: termCounterKeys()){
-			String actual = index_url.substring(12);
-//			System.out.println(actual);
-			paragraphs2 = wf.readWikipedia(actual);
-			sent2 = getSentence(actual, paragraphs2);
-			similarity = findSimilarity(sent1, sent2);
-			if (similarity > 10){
-				most_similar.add(actual);
+			if(!(url.equals(index_url.substring(12)))){
+				String actual = index_url.substring(12);
+				paragraphs2 = wf.readWikipedia(actual);
+				sent2 = getSentence(actual, paragraphs2);
+				similarity = findSimilarity(sent1, sent2);
+				if (similarity > 10){
+					most_similar.add(actual);
+				}
 			}
 		}
 		return most_similar;
@@ -532,7 +531,11 @@ public class JedisIndex {
 		
 		//index.deleteTermCounters();
 		//index.deleteURLSets();
+<<<<<<< HEAD
 //        index.deleteAllKeys();
+=======
+        //index.deleteAllKeys();
+>>>>>>> 86c55c483311df461c29a66b6d331c031a80c398
 		loadIndex(index);
 		
 //		Map<String, Integer> map = index.getCountsFaster("the");
