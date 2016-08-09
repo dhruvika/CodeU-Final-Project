@@ -197,8 +197,8 @@ public class JedisIndex {
 	//			System.out.println("Number of entries for word map: " + form_tdidf.size());
 	//			System.out.println("Getting URL entry: "+ form_tdidf.get(URL));
 				if (form_tdidf.get(URL) != null){
-				final_count = final_count + score*form_tdidf.get(URL);
-	//			System.out.println("Count after adding "+ form + final_count);
+					final_count = final_count + score*form_tdidf.get(URL);
+	//				System.out.println("Count after adding "+ form + final_count);
 				}
 			}
 	//		System.out.println("Total count for URL: "+ final_count);
@@ -312,11 +312,13 @@ public class JedisIndex {
 		
 		// might not be the right list of all urls in the index test this!
 		for (String index_url: termCounterKeys()){
+			System.out.println(termCounterKeys().toString());
 			String actual = index_url.substring(12);
-//			System.out.println(actual);
+			System.out.println(actual);
 			paragraphs2 = wf.readWikipedia(actual);
 			sent2 = getSentence(actual, paragraphs2);
 			similarity = findSimilarity(sent1, sent2);
+			System.out.println(similarity);
 			if (similarity > 10){
 				most_similar.add(actual);
 			}
@@ -471,8 +473,8 @@ public class JedisIndex {
 		
 		//index.deleteTermCounters();
 		//index.deleteURLSets();
-        index.deleteAllKeys();
-//		loadIndex(index);
+        //index.deleteAllKeys();
+		loadIndex(index);
 		
 //		Map<String, Integer> map = index.getCountsFaster("the");
 //		for (Entry<String, Integer> entry: map.entrySet()) {
