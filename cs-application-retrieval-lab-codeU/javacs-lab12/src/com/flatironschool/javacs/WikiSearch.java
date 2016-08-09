@@ -282,18 +282,18 @@ public class WikiSearch {
 	 * @return
 	 */
 	public static WikiSearch search(String term, JedisIndex index, Jedis jedis) {		
-//		Map<String, Integer> map = index.getCountsForms(term);
+		Map<String, Integer> map = index.getCountsForms(term);
 		
 		//new stuff from here
 		
-		Map<String,Integer> map = new HashMap<String,Integer>();
-		for (String URL: index.termCounterKeys() ){
-			String actual_url = URL.substring(12);
-			if (jedis.hget(term, actual_url) != null){
-				map.put(actual_url, Integer.parseInt(jedis.hget(term, actual_url)));
-			}
-			
-		}
+//		Map<String,Integer> map = new HashMap<String,Integer>();
+//		for (String URL: index.termCounterKeys() ){
+//			String actual_url = URL.substring(12);
+//			if (jedis.hget(term, actual_url) != null){
+//				map.put(actual_url, Integer.parseInt(jedis.hget(term, actual_url)));
+//			}
+//			
+//		}
 				
 		//new stuff ends here
 		
