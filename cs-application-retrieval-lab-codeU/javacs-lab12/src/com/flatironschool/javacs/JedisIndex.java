@@ -531,11 +531,7 @@ public class JedisIndex {
 		
 		//index.deleteTermCounters();
 		//index.deleteURLSets();
-<<<<<<< HEAD
 //        index.deleteAllKeys();
-=======
-        //index.deleteAllKeys();
->>>>>>> 86c55c483311df461c29a66b6d331c031a80c398
 		loadIndex(index);
 		
 //		Map<String, Integer> map = index.getCountsFaster("the");
@@ -622,8 +618,8 @@ public class JedisIndex {
 		paragraphs = wf.readWikipedia(url);
 		index.indexPage(url, paragraphs);
 		
-		System.out.println("Storing searches for words....");
-		index.searchStoreIndex();
+//		System.out.println("Storing searches for words....");
+//		index.searchStoreIndex();
 		
 		
 		
