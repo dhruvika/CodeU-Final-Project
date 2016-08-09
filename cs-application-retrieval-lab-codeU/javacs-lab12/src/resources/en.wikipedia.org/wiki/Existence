@@ -1,0 +1,1652 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8"/>
+<title>Existence - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Existence","wgTitle":"Existence","wgCurRevisionId":730621840,"wgRevisionId":730621840,"wgArticleId":9302,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia introduction cleanup from March 2012","All pages needing cleanup","Articles covered by WikiProject Wikify from March 2012","All articles covered by WikiProject Wikify","Articles needing additional references from April 2009","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from May 2016","All articles that may contain original research","Articles that may contain original research from January 2010","All accuracy disputes","Articles with disputed statements from August 2009","Ontology","Concepts in metaphysics","Philosophy of life","Reality"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Existence","wgRelevantArticleId":9302,"wgRequestId":"V6kCTQpAEKYAAB4a3iUAAABJ","wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q468777","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0});mw.loader.implement("user.options",function($,jQuery,require,module){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","skins.vector.js"]);mw.loader.state({"ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","ext.uls.nojs":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.legacy.shared":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","wikibase.client.init":"ready","site.styles":"ready","noscript":"ready","user.cssprefs":"ready","user.styles":"ready"});});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.tmh.thumbnail.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.28.0-wmf.13"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Existence"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Existence&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Existence&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Existence"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Existence rootpage-Existence skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Existence</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div role="note" class="hatnote">For other uses, see <a href="/wiki/Existence_(disambiguation)" class="mw-disambig" title="Existence (disambiguation)">Existence (disambiguation)</a>.</div>
+<div role="note" class="hatnote">For other uses, see <a href="/wiki/Exist_(disambiguation)" class="mw-redirect mw-disambig" title="Exist (disambiguation)">Exist</a>.</div>
+<table class="metadata plainlinks ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Existence&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Existence" title="Talk:Existence">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="metadata plainlinks ambox ambox-style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" data-file-width="48" data-file-height="48" /></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article's <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section" title="Wikipedia:Manual of Style/Lead section">introduction section</a> <b>may not adequately <a href="/wiki/Wikipedia:Summary_style" title="Wikipedia:Summary style">summarize</a> its contents</b>. <span class="hide-when-compact">To comply with Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Introductory_text" title="Wikipedia:Manual of Style/Lead section">lead section guidelines</a>, please consider modifying the lead to <a href="/wiki/Wikipedia:Manual_of_Style/Lead_section#Provide_an_accessible_overview" title="Wikipedia:Manual of Style/Lead section">provide an accessible overview</a> of the article's key points in such a way that it can stand on its own as a concise version of the article. <small>(<a href="/wiki/Talk:Existence" title="Talk:Existence">discuss</a>)</small>.</span> <small><i>(March 2012)</i></small></span></td>
+</tr>
+</table>
+<table class="metadata plainlinks ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a href="/wiki/File:Question_book-new.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="512" data-file-height="399" /></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Existence&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(April 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of <a href="/wiki/Category:Philosophy" title="Category:Philosophy">a series</a> on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;font-size:200%;font-weight:normal;padding-bottom:0.15em;"><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a href="/wiki/File:Philbar_3.png" class="image" title="Left to right: Plato, Kant, Nietzsche, Buddha, Confucius, Averroes"><img alt="Left to right: Plato, Kant, Nietzsche, Buddha, Confucius, Averroes" src="//upload.wikimedia.org/wikipedia/commons/c/cf/Philbar_3.png" width="220" height="151" data-file-width="220" data-file-height="151" /></a>
+<div style="padding-top:0.2em;line-height:1.2em;white-space:nowrap;border-bottom:1px #aaa solid;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Kant</a></li>
+<li><a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">Nietzsche</a></li>
+</ul>
+</div>
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Buddha" class="mw-redirect" title="Buddha">Buddha</a></li>
+<li><a href="/wiki/Confucius" title="Confucius">Confucius</a></li>
+<li><a href="/wiki/Averroes" title="Averroes">Averroes</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;"><a href="/wiki/Category:Philosophers" title="Category:Philosophers">Philosophers</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/List_of_aestheticians" title="List of aestheticians">Aestheticians</a></li>
+<li><a href="/wiki/List_of_epistemologists" title="List of epistemologists">Epistemologists</a></li>
+<li><a href="/wiki/List_of_ethicists" title="List of ethicists">Ethicists</a></li>
+<li><a href="/wiki/List_of_logicians" title="List of logicians">Logicians</a></li>
+<li><a href="/wiki/List_of_metaphysicians" title="List of metaphysicians">Metaphysicians</a></li>
+<li><a href="/wiki/List_of_social_and_political_philosophers" title="List of social and political philosophers">Social and political philosophers</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;"><a href="/wiki/Category:Philosophical_traditions" title="Category:Philosophical traditions">Traditions</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/African_philosophy" title="African philosophy">African</a></li>
+<li><a href="/wiki/Analytic_philosophy" title="Analytic philosophy">Analytic</a></li>
+<li><a href="/wiki/Aristotelianism" title="Aristotelianism">Aristotelian</a></li>
+<li><a href="/wiki/Buddhist_philosophy" title="Buddhist philosophy">Buddhist</a></li>
+<li><a href="/wiki/Chinese_philosophy" title="Chinese philosophy">Chinese</a></li>
+<li><a href="/wiki/Christian_philosophy" title="Christian philosophy">Christian</a></li>
+<li><a href="/wiki/Continental_philosophy" title="Continental philosophy">Continental</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Hindu_philosophy" title="Hindu philosophy">Hindu</a></li>
+<li><a href="/wiki/Jain_philosophy" title="Jain philosophy">Jain</a></li>
+<li><a href="/wiki/Jewish_Philosophy" class="mw-redirect" title="Jewish Philosophy">Jewish</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Eastern_philosophy" title="Eastern philosophy">Eastern</a></li>
+<li><a href="/wiki/Islamic_philosophy" title="Islamic philosophy">Islamic</a></li>
+<li><a href="/wiki/Platonism" title="Platonism">Platonic</a></li>
+<li><a href="/wiki/Western_philosophy" title="Western philosophy">Western</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;"><a href="/wiki/Category:Philosophy_by_period" title="Category:Philosophy by period">Periods</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/Ancient_philosophy" title="Ancient philosophy">Ancient</a></li>
+<li><a href="/wiki/Medieval_philosophy" title="Medieval philosophy">Medieval</a></li>
+<li><a href="/wiki/Modern_philosophy" title="Modern philosophy">Modern</a></li>
+<li><a href="/wiki/Contemporary_philosophy" title="Contemporary philosophy">Contemporary</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;"><a href="/wiki/Category:Philosophical_literature" title="Category:Philosophical literature">Literature</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/Category:Aesthetics_literature" title="Category:Aesthetics literature">Aesthetics</a></li>
+<li><a href="/wiki/Category:Epistemology_literature" title="Category:Epistemology literature">Epistemology</a></li>
+<li><a href="/wiki/Category:Ethics_literature" title="Category:Ethics literature">Ethics</a></li>
+<li><a href="/wiki/Category:Logic_literature" title="Category:Logic literature">Logic</a></li>
+<li><a href="/wiki/Category:Metaphysics_literature" title="Category:Metaphysics literature">Metaphysics</a></li>
+<li><a href="/wiki/Category:Political_philosophy_literature" title="Category:Political philosophy literature">Political philosophy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;"><a href="/wiki/Category:Branches_of_philosophy" title="Category:Branches of philosophy">Branches</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Ethics" title="Ethics">Ethics</a></li>
+<li><a href="/wiki/Philosophy_of_law" title="Philosophy of law">Legal philosophy</a></li>
+<li><a href="/wiki/Logic" title="Logic">Logic</a></li>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a href="/wiki/Political_philosophy" title="Political philosophy">Political philosophy</a></li>
+<li><a href="/wiki/Social_philosophy" title="Social philosophy">Social philosophy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;"><a href="/wiki/Category:Philosophy-related_lists" title="Category:Philosophy-related lists">Lists</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/Index_of_philosophy" title="Index of philosophy">Index</a></li>
+<li><a href="/wiki/Outline_of_philosophy" title="Outline of philosophy">Outline</a></li>
+<li><a href="/wiki/List_of_years_in_philosophy" title="List of years in philosophy">Years</a></li>
+<li><a href="/wiki/List_of_unsolved_problems_in_philosophy" title="List of unsolved problems in philosophy">Problems</a></li>
+<li><a href="/wiki/List_of_important_publications_in_philosophy" title="List of important publications in philosophy">Publications</a></li>
+<li><a href="/wiki/List_of_philosophies" title="List of philosophies">Theories</a></li>
+<li><a href="/wiki/Glossary_of_philosophy" title="Glossary of philosophy">Glossary</a></li>
+<li><a href="/wiki/Lists_of_philosophers" title="Lists of philosophers">Philosophers</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-size:105%;padding-bottom:0;">Miscellaneous</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em;padding:0 0 0.6em;">
+<ul>
+<li><a href="/wiki/Philosopher" title="Philosopher">Philosopher</a></li>
+<li><a href="/wiki/Women_in_philosophy" title="Women in philosophy">Women in philosophy</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border-top:1px solid #aaa;border-bottom:1px solid #aaa;"><span class="metadata"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/10px-Socrates.png" width="10" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/15px-Socrates.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Socrates.png/21px-Socrates.png 2x" data-file-width="326" data-file-height="500" /> <a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Philosophy portal</a></span></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philosophy_sidebar" title="Template:Philosophy sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_sidebar" title="Template talk:Philosophy sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Existence</b> is commonly held to be that which objectively persists independent of one's presence.</p>
+<p><a href="/wiki/Ontology" title="Ontology">Ontology</a> is the philosophical study of the nature of <a href="/wiki/Being" title="Being">being</a>, existence or <a href="/wiki/Reality" title="Reality">reality</a> in general, as well as of the basic <a href="/wiki/Category_of_being" title="Category of being">categories of being</a> and their relations. Traditionally listed as a part of the major branch of philosophy known as <a href="/wiki/Metaphysics" title="Metaphysics">metaphysics</a>, ontology deals with questions concerning what <a href="/wiki/Entity" title="Entity">entities</a> exist or can be said to exist, (for instance: <i>"Does the stellar structure <a href="/wiki/UDFj-39546284" title="UDFj-39546284">UDFj-39546284</a> exist?"</i>), and how such entities can be grouped, related within a <a href="/wiki/Hierarchy" title="Hierarchy">hierarchy</a>, and subdivided according to similarities and differences.</p>
+<p><a href="/wiki/Materialism" title="Materialism">Materialism</a> holds that the only things that exist are <a href="/wiki/Matter" title="Matter">matter</a> and <a href="/wiki/Energy" title="Energy">energy</a>, that all things are composed of material, that all actions require energy, and that all phenomena (including <a href="/wiki/Consciousness" title="Consciousness">consciousness</a>) are the result of material interactions.</p>
+<p><a href="/wiki/Life" title="Life">Life</a> is a characteristic that distinguishes <a href="/wiki/Object_(philosophy)" title="Object (philosophy)">objects</a> that have self-sustaining <a href="/wiki/Biological_process" title="Biological process">biological processes</a> from those that do not<sup id="cite_ref-Koshland_1-0" class="reference"><a href="#cite_note-Koshland-1">[1]</a></sup><sup id="cite_ref-AHDLife_2-0" class="reference"><a href="#cite_note-AHDLife-2">[2]</a></sup>—either because such functions have ceased (<a href="/wiki/Death" title="Death">death</a>), or else because they lack such functions and are classified as "<a href="https://en.wiktionary.org/wiki/inanimate" class="extiw" title="wiktionary:inanimate">inanimate</a>".<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">[3]</a></sup></p>
+<p>In <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, existence is asserted by a quantifier, the <a href="/wiki/Existential_quantifier" class="mw-redirect" title="Existential quantifier">existential quantifier</a>, one of two quantifiers (the other being the <a href="/wiki/Universal_quantifier" class="mw-redirect" title="Universal quantifier">universal quantifier</a>). The properties of the existential quantifier are established by <a href="/wiki/Axiom" title="Axiom">axioms</a>.</p>
+<p></p>
+<div id="toc" class="toc">
+<div id="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Etymology"><span class="tocnumber">1</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Historical_conceptions"><span class="tocnumber">2</span> <span class="toctext">Historical conceptions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Early_modern_philosophy"><span class="tocnumber">2.1</span> <span class="toctext">Early modern philosophy</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Predicative_nature"><span class="tocnumber">3</span> <span class="toctext">Predicative nature</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Semantics"><span class="tocnumber">3.1</span> <span class="toctext">Semantics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Modern_approaches"><span class="tocnumber">4</span> <span class="toctext">Modern approaches</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Existence_in_the_wide_and_narrow_senses"><span class="tocnumber">4.1</span> <span class="toctext">Existence in the wide and narrow senses</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Existence_in_mathematics"><span class="tocnumber">4.2</span> <span class="toctext">Existence in mathematics</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#European_views"><span class="tocnumber">4.3</span> <span class="toctext">European views</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Anti-realist_arguments"><span class="tocnumber">4.4</span> <span class="toctext">Anti-realist arguments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Dharmic_.22middle_way.22_view"><span class="tocnumber">5</span> <span class="toctext">Dharmic "middle way" view</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=1" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word "existence" comes from the <a href="/wiki/Latin" title="Latin">Latin</a> word <i>exsistere</i> meaning "to appear", "to arise", "to become", or "to be", but literally, it means "to stand out" (<i>ex-</i> being the Latin prefix for "out" added to the causative of the verb <i>stare</i>, meaning "to stand").<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Historical_conceptions">Historical conceptions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=2" title="Edit section: Historical conceptions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote">See also: <a href="/wiki/Avicennism" title="Avicennism">Avicennism</a> and <a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a></div>
+<p>In the <a href="/wiki/Western_world" title="Western world">Western</a> tradition of philosophy, the earliest known comprehensive treatments of the subject are from <a href="/wiki/Plato" title="Plato">Plato</a>'s <i><a href="/wiki/Phaedo" title="Phaedo">Phaedo</a></i>, <i><a href="/wiki/The_Republic_(Plato)" class="mw-redirect" title="The Republic (Plato)">Republic</a></i>, and <i><a href="/wiki/Statesman_(dialogue)" title="Statesman (dialogue)">Statesman</a></i> and <a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>'s <i><a href="/wiki/Metaphysics_(Aristotle)" title="Metaphysics (Aristotle)">Metaphysics</a></i>, though earlier fragmentary writing exists. Aristotle developed a comprehensive theory of being, according to which only individual things, called substances, fully have being, but other things such as relations, quantity, time, and place (called the <a href="/wiki/Categories_(Aristotle)" title="Categories (Aristotle)">categories</a>) have a derivative kind of being, dependent on individual things. In Aristotle's <i>Metaphysics</i>, there are <a href="/wiki/Four_causes" title="Four causes">four causes</a> of existence or change in nature: the material cause, the formal cause, the efficient cause, and the final cause.</p>
+<p>The <a href="/wiki/Neo-Platonist" class="mw-redirect" title="Neo-Platonist">Neo-Platonists</a> and some early <a href="/wiki/Christianity" title="Christianity">Christian</a> philosophers argued about whether existence had any reality except in the mind of God.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2016)">citation needed</span></a></i>]</sup> Some taught that existence was a snare and a delusion, that the world, the flesh, and the devil existed only to tempt weak humankind away from God.</p>
+<p>The <a href="/wiki/Medieval_philosophy" title="Medieval philosophy">medieval philosopher</a> <a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a> argued that God is pure being, and that in God <a href="/wiki/Essence" title="Essence">essence</a> and existence are the same.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">[5]</a></sup> At about the same time, the <a href="/wiki/Nominalist" class="mw-redirect" title="Nominalist">nominalist</a> philosopher <a href="/wiki/William_of_Ockham" title="William of Ockham">William of Ockham</a> argued, in Book I of his <i><a href="/wiki/Sum_of_Logic" title="Sum of Logic">Summa Totius Logicae</a></i> (<i>Treatise on all Logic</i>, written some time before 1327), that Categories are not a form of Being in their own right, but derivative on the existence of individuals.</p>
+<h3><span class="mw-headline" id="Early_modern_philosophy">Early modern philosophy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=3" title="Edit section: Early modern philosophy">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Early_modern_Europe" title="Early modern Europe">early modern</a> treatment of the subject derives from <a href="/wiki/Antoine_Arnauld" title="Antoine Arnauld">Antoine Arnauld</a> and <a href="/wiki/Pierre_Nicole" title="Pierre Nicole">Pierre Nicole</a>'s <i>Logic</i>, or <i>The Art of Thinking</i>, better known as the <i><a href="/wiki/Port-Royal_Logic" title="Port-Royal Logic">Port-Royal Logic</a></i>, first published in 1662. Arnauld thought that a <a href="/wiki/Proposition" title="Proposition">proposition</a> or <a href="/wiki/Decision_making" class="mw-redirect" title="Decision making">judgment</a> consists of taking two different ideas and either putting them together or rejecting them:</p>
+<blockquote class="templatequote">
+<p>After conceiving things by our ideas, we compare these ideas and, finding that some belong together and others do not, we unite or separate them. This is called affirming or denying, and in general judging. This judgment is also called a proposition, and it is easy to see that it must have two terms. One term, of which one affirms or denies something, is called the <a href="/wiki/Subject_(philosophy)" title="Subject (philosophy)">subject</a>; the other term, which is affirmed or denied, is called the attribute or <a href="/wiki/Predicate_(logic)" class="mw-redirect" title="Predicate (logic)">Praedicatum</a>.</p>
+<div class="templatequotecite"><cite>— Antoine Arnauld, <i>The Art of Thinking</i> (<i><a href="/wiki/Port-Royal_Logic" title="Port-Royal Logic">Port-Royal Logic</a></i>),(1662) (translated J. Buroker 1996), Logic, II.3, page 82</cite></div>
+</blockquote>
+<p>The two terms are joined by the verb "is" (or "is not", if the predicate is denied of the subject). Thus every proposition has three components: the two terms, and the "<a href="/wiki/Copula_(linguistics)" title="Copula (linguistics)">copula</a>" that connects or separates them. Even when the proposition has only two words, the three terms are still there. For example, "God loves humanity", really means "God is a lover of humanity", "God exists" means "God is a thing".</p>
+<p>This theory of judgment dominated logic for centuries, but it has some obvious difficulties: it only considers proposition of the form "All A are B.", a form logicians call <a href="/wiki/Universal_quantifier" class="mw-redirect" title="Universal quantifier">universal</a>. It does not allow propositions of the form "Some A are B", a form logicians call <a href="/wiki/Existential_quantifier" class="mw-redirect" title="Existential quantifier">existential</a>. If neither A nor B includes the idea of existence, then "some A are B" simply adjoins A to B. Conversely, if A or B do include the idea of existence in the way that "triangle" contains the idea "three angles equal to two right angles", then "A exists" is automatically true, and we have an <a href="/wiki/Ontological_proof" class="mw-redirect" title="Ontological proof">ontological proof</a> of A's existence. (Indeed, Arnauld's contemporary <a href="/wiki/Descartes" class="mw-redirect" title="Descartes">Descartes</a> famously argued so, regarding the concept "God" (discourse 4, Meditation 5)). Arnauld's theory was current until the middle of the nineteenth century.</p>
+<p><a href="/wiki/David_Hume" title="David Hume">David Hume</a> argued that the claim that a thing exists, when added to our notion of a thing, does not add anything to the concept. For example, if we form a complete notion of Moses, and superadd to that notion the claim that Moses existed, we are not adding anything to the notion of Moses.</p>
+<p><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Kant</a> also argued that existence is not a "real" predicate, but gave no explanation of how this is possible. Indeed, his famous discussion of the subject is merely a restatement of Arnauld's doctrine that in the proposition "God is omnipotent", the verb "is" signifies the joining or separating of two concepts such as "God" and "omnipotence".<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (January 2010)">original research?</span></a></i>]</sup></p>
+<p><a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Schopenhauer</a> claimed that “everything that exists for knowledge, and hence the whole of this world, is only object in relation to the subject, perception of the perceiver, in a word, representation.”<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">[6]</a></sup> According to him there can be "No object without subject" because "everything objective is already conditioned as such in manifold ways by the knowing subject with the forms of its knowing, and presupposes these forms…"<sup id="cite_ref-ReferenceA_7-0" class="reference"><a href="#cite_note-ReferenceA-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Predicative_nature">Predicative nature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=4" title="Edit section: Predicative nature">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a> (and also Kant's pupil <a href="/wiki/Johann_Friedrich_Herbart" title="Johann Friedrich Herbart">Herbart</a>) argued that the predicative nature of existence was proved by sentences like "A centaur is a poetic fiction"<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">[8]</a></sup> or "A greatest number is impossible" (Herbart).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">[9]</a></sup> <a href="/wiki/Franz_Brentano" title="Franz Brentano">Franz Brentano</a> challenged this; so also (as is better known) did <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Frege</a>. Brentano argued that we can join the concept represented by a noun phrase "an A" to the concept represented by an adjective "B" to give the concept represented by the noun phrase "a B-A". For example, we can join "a man" to "wise" to give "a wise man". But the noun phrase "a wise man" is not a sentence, whereas "some man is wise" is a sentence. Hence the copula must do more than merely join or separate concepts. Furthermore, adding "exists" to "a wise man", to give the complete sentence "a wise man exists" has the same effect as joining "some man" to "wise" using the copula. So the copula has the same effect as "exists". Brentano argued that every categorical proposition can be translated into an existential one without change in meaning and that the "exists" and "does not exist" of the existential proposition take the place of the copula. He showed this by the following examples:</p>
+<dl>
+<dd>The categorical proposition "Some man is sick" has the same meaning as the existential proposition "A sick man exists" or "There is a sick man".</dd>
+</dl>
+<dl>
+<dd>The categorical proposition "No stone is living" has the same meaning as the existential proposition "A living stone does not exist" or "there is no living stone".</dd>
+</dl>
+<dl>
+<dd>The categorical proposition "All men are mortal" has the same meaning as the existential proposition "An immortal man does not exist" or "there is no immortal man".</dd>
+</dl>
+<dl>
+<dd>The categorical proposition "Some man is not learned" has the same meaning as the existential proposition "A non-learned man exists" or "there is a non-learned man".</dd>
+</dl>
+<p>Frege developed a similar view (though later) in his great work <i><a href="/wiki/The_Foundations_of_Arithmetic" title="The Foundations of Arithmetic">The Foundations of Arithmetic</a></i>, as did <a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a> (but Peirce held that <a href="/wiki/Charles_Sanders_Peirce#Philosophy:_metaphysics" title="Charles Sanders Peirce">the possible and the real are not limited to the actually, individually existent</a>). The Frege-Brentano view is the basis of the dominant position in <a href="/wiki/Analytic_philosophy" title="Analytic philosophy">modern Anglo-American philosophy</a>: that existence is asserted by the existential quantifier (as expressed by <a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Quine</a>'s slogan "To be is to be the value of a variable." — <i>On What There Is</i>, 1948).<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Semantics">Semantics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=5" title="Edit section: Semantics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Mathematical_logic" title="Mathematical logic">mathematical logic</a>, there are two quantifiers, "some" and "all", though as <a href="/wiki/Franz_Brentano" title="Franz Brentano">Brentano</a> (1838–1917) pointed out, we can make do with just one quantifier and negation. The first of these quantifiers, "some", is also expressed as "there exists". Thus, in the sentence "There exists a man", the term "man" is asserted to be part of existence. But we can also assert, "There exists a triangle." Is a "triangle" — an abstract idea — part of existence in the same way that a "man" — a physical body — is part of existence? Do abstractions such as goodness, blindness, and virtue exist in the same sense that chairs, tables, and houses exist? What <a href="/wiki/Categories_(Aristotle)" title="Categories (Aristotle)">categories</a>, or kinds of thing, can be the subject or the predicate of a proposition?</p>
+<p>Worse, does "existence" exist?<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">[11]</a></sup></p>
+<p>In some statements, existence is implied without being mentioned. The statement "A bridge crosses the Thames at Hammersmith" cannot just be about a bridge, the Thames, and Hammersmith. It must be about "existence" as well. On the other hand, the statement "A bridge crosses the Styx at Limbo" has the same form, but while in the first case we understand a real bridge in the real world made of stone or brick, what "existence" would mean in the second case is less clear.</p>
+<p>The <a href="/wiki/Nominalist" class="mw-redirect" title="Nominalist">nominalist</a> approach is to argue that certain noun phrases can be "eliminated" by rewriting a sentence in a form that has the same meaning, but does not contain the noun phrase. Thus <a href="/wiki/William_of_Ockham" title="William of Ockham">Ockham</a> argued that "Socrates has wisdom", which apparently asserts the existence of a reference for "wisdom", can be rewritten as "Socrates is wise", which contains only the referring phrase "Socrates". This method became widely accepted in the twentieth century by the <a href="/wiki/Analytic_philosophy" title="Analytic philosophy">analytic school</a> of philosophy.</p>
+<p>However, this argument may be inverted by <a href="/wiki/Philosophical_realism" title="Philosophical realism">realists</a> in arguing that since the sentence "Socrates is wise" can be rewritten as "Socrates has wisdom", this proves the existence of a hidden referent for "wise".</p>
+<p>A further problem is that human beings seem to process information about <a href="/wiki/Character_(arts)" title="Character (arts)">fictional characters</a> in much the same way that they process information about real people. For example, in the 2008 United States presidential election, a politician and actor named <a href="/wiki/Fred_Thompson" title="Fred Thompson">Fred Thompson</a> ran for the <a href="/wiki/Republican_Party_(United_States)" title="Republican Party (United States)">Republican Party</a> nomination. In polls, potential voters identified Fred Thompson as a "law and order" candidate. Thompson plays a fictional character on the television series <i><a href="/wiki/Law_%26_Order_franchise" class="mw-redirect" title="Law &amp; Order franchise">Law and Order</a></i>. The people who make the comment are aware that <i>Law and Order</i> is fiction, but at some level, they may process fiction as if it were fact, a process included in what is called the Paradox of Fiction<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Disputed_statement" class="mw-redirect" title="Wikipedia:Disputed statement"><span title="The material near this tag is possibly inaccurate or nonfactual. (August 2009)">dubious</span></a> <span class="metadata">– <a href="/wiki/Talk:Existence#Dubious" title="Talk:Existence">discuss</a></span></i>]</sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">[12]</a></sup> Another example of this is the common experience of actresses who play the villain in a soap opera being accosted in public as if they are to blame for the actions of the characters they play.</p>
+<p>A scientist might make a clear distinction about objects that exist, and assert that all objects that exist are made up of either matter or energy. But in the layperson's <a href="/wiki/Worldview" class="mw-redirect" title="Worldview">worldview</a>, existence includes real, fictional, and even contradictory objects. Thus if we reason from the statement "<a href="/wiki/Pegasus" title="Pegasus">Pegasus</a> flies" to the statement "Pegasus exists", we are not asserting that Pegasus is made up of atoms, but rather that Pegasus exists in a particular worldview, the worldview of classical myth. When a mathematician reasons from the statement "ABC is a triangle" to the statement "triangles exist", she is not asserting that triangles are made up of atoms but rather that triangles exist within a particular <a href="/wiki/Mathematical_model" title="Mathematical model">mathematical model</a>.</p>
+<h2><span class="mw-headline" id="Modern_approaches">Modern approaches</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=6" title="Edit section: Modern approaches">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>According to <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a>'s <a href="/wiki/Theory_of_Descriptions" class="mw-redirect" title="Theory of Descriptions">Theory of Descriptions</a>, the negation operator in a singular sentence can take either wide or narrow scope: we distinguish between "some S is not P" (where negation takes "narrow scope") and "it is not the case that 'some S is P'" (where negation takes "wide scope"). The problem with this view is that there appears to be no such scope distinction in the case of proper names. The sentences "Socrates is not bald" and "it is not the case that Socrates is bald" both appear to have the same meaning, and they both appear to assert or presuppose the existence of someone (Socrates) who is not bald, so that negation takes narrow scope. However, Russell's theory analyses proper names into a logical structure which makes sense of this problem. According to Russell, Socrates can be analysed into the form 'The Philosopher of Greece.' In the wide scope this would then read: It is not the case that there existed a philosopher of Greece who was bald. In the narrow scope it would read the Philosopher of Greece was not bald.</p>
+<p>According to the <a href="/wiki/Direct_reference" class="mw-redirect" title="Direct reference">direct-reference</a> view, an early version of which was originally proposed by <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a>, and perhaps earlier by <a href="/wiki/Gottlob_Frege" title="Gottlob Frege">Gottlob Frege</a>, a proper name strictly has no meaning when there is no object to which it refers. This view relies on the argument that the semantic function of a proper name is to tell us <i>which</i> object bears the name, and thus to identify some object. But no object can be identified if none exists. Thus, a proper name must have a bearer if it is to be meaningful.</p>
+<h3><span class="mw-headline" id="Existence_in_the_wide_and_narrow_senses">Existence in the wide and narrow senses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=7" title="Edit section: Existence in the wide and narrow senses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to the "two sense" view of existence, which derives from <a href="/wiki/Alexius_Meinong" title="Alexius Meinong">Alexius Meinong</a>, existential statements fall into two classes.</p>
+<ol>
+<li>Those asserting existence in a <i>wide</i> sense. These are typically of the form "N is P" for singular N, or "some S is P".</li>
+<li>Those asserting existence in a <i>narrow</i> sense. These are typically of the form "N exists" or "Ss exist".</li>
+</ol>
+<p>The problem is then evaded as follows. "Pegasus flies" implies existence in the wide sense, for it implies that <i>something</i> flies. But it does not imply existence in the narrow sense, for we deny existence in this sense by saying that Pegasus does not exist. In effect, the world of all things divides, on this view, into those (like <a href="/wiki/Socrates" title="Socrates">Socrates</a>, the planet <a href="/wiki/Venus" title="Venus">Venus</a>, and New York City) that have existence in the narrow sense, and those (like <a href="/wiki/Sherlock_Holmes" title="Sherlock Holmes">Sherlock Holmes</a>, the goddess <a href="/wiki/Venus_(mythology)" title="Venus (mythology)">Venus</a>, and <a href="/wiki/Minas_Tirith" title="Minas Tirith">Minas Tirith</a>) that do not.</p>
+<p>However, common sense suggests the non-existence of such things as <a href="/wiki/Character_(arts)" title="Character (arts)">fictional characters</a> or places.</p>
+<h3><span class="mw-headline" id="Existence_in_mathematics">Existence in mathematics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=8" title="Edit section: Existence in mathematics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In mathematics, existence is asserted by means of a quantifier, the <a href="/wiki/Existential_quantifier" class="mw-redirect" title="Existential quantifier">existential quantifier</a>, whose properties are established by <a href="/wiki/Axioms" class="mw-redirect" title="Axioms">axioms</a>.</p>
+<h3><span class="mw-headline" id="European_views">European views</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=9" title="Edit section: European views">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Influenced by the views of Brentano's pupil <a href="/wiki/Alexius_Meinong" title="Alexius Meinong">Alexius Meinong</a>, and by <a href="/wiki/Edmund_Husserl" title="Edmund Husserl">Edmund Husserl</a>, Germanophone and Francophone philosophy took a different direction regarding the question of existence.</p>
+<h3><span class="mw-headline" id="Anti-realist_arguments">Anti-realist arguments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=10" title="Edit section: Anti-realist arguments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a> is the view of idealists who are skeptics about the physical world, maintaining either: 1) that nothing exists outside the <a href="/wiki/Mind" title="Mind">mind</a>, or 2) that we would have no access to a mind-independent reality even if it may exist. Realists, in contrast, hold that perceptions or <a href="/wiki/Sense_data" title="Sense data">sense data</a> are caused by mind-independent objects. An "anti-realist" who denies that other minds exist (i. e., a <a href="/wiki/Solipsist" class="mw-redirect" title="Solipsist">solipsist</a>) is different from an "anti-realist" who claims that there is no fact of the matter as to whether or not there are unobservable other minds (i. e., a logical <a href="/wiki/Behaviorist" class="mw-redirect" title="Behaviorist">behaviorist</a>).</p>
+<h2><span class="mw-headline" id="Dharmic_.22middle_way.22_view">Dharmic "middle way" view</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=11" title="Edit section: Dharmic &quot;middle way&quot; view">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Indian philosopher <a href="/wiki/Nagarjuna#Philosophy" title="Nagarjuna">Nagarjuna</a> (c. 150 – 250 CE) largely advanced existence concepts and founded the <a href="/wiki/Madhyamaka" title="Madhyamaka">Madhyamaka</a> school of <a href="/wiki/Mah%C4%81y%C4%81na" class="mw-redirect" title="Mahāyāna">Mahāyāna</a> Buddhism.</p>
+<p>In Eastern philosophy, <a href="/wiki/Anicca" class="mw-redirect" title="Anicca">Anicca</a> (Sanskrit <i>anitya</i>) or "<a href="/wiki/Impermanence" title="Impermanence">impermanence</a>" describes existence. It refers to the fact that all conditioned things (<a href="/wiki/Sankhara" class="mw-redirect" title="Sankhara">sankhara</a>) are in a constant state of flux. In reality there is no thing that ultimately ceases to exist; only the appearance of a thing ceases as it changes from one form to another. Imagine a leaf that falls to the ground and decomposes. While the appearance and relative existence of the leaf ceases, the components that formed the leaf become particulate material that goes on to form new plants. Buddhism teaches a middle way, avoiding the extreme views of <a href="/wiki/Eternalism_(philosophy_of_time)" title="Eternalism (philosophy of time)">eternalism</a> and <a href="/wiki/Nihilism" title="Nihilism">nihilism</a>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">[13]</a></sup> The middle way recognizes there are vast differences between the way things are perceived to exist and the way things really exist. The differences are reconciled in the concept of <a href="/wiki/Shunyata" class="mw-redirect" title="Shunyata">Shunyata</a> by addressing the existing object's served purpose for the subject's identity in being. What exists is in non-existence, because the subject changes.</p>
+<p><a href="/wiki/Trailokya" title="Trailokya">Trailokya</a> elaborates on three kinds of existence, those of desire, form, and formlessness in which there are karmic rebirths. Taken further to the <a href="/wiki/Trikaya" title="Trikaya">Trikaya</a> doctrine, it describes how the Buddha exists. In this philosophy, it is accepted that the Buddha exists in more than one absolute way.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Being" title="Being">Being</a></li>
+<li><i><a href="/wiki/Cogito_ergo_sum" title="Cogito ergo sum">Cogito ergo sum</a></i></li>
+<li><a href="/wiki/Conservation_law_(physics)" class="mw-redirect" title="Conservation law (physics)">Conservation law</a></li>
+<li><a href="/wiki/Cosmogony" title="Cosmogony">Cosmogony</a></li>
+<li><a href="/wiki/Cosmological_argument" title="Cosmological argument">Cosmological argument</a></li>
+<li><a href="/wiki/Existence_precedes_essence" title="Existence precedes essence">Existence precedes essence</a></li>
+<li><a href="/wiki/Existence_theorem" title="Existence theorem">Existence theorem</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Existential_operator" class="mw-redirect" title="Existential operator">Existential operator</a></li>
+<li><a href="/wiki/G%C3%B6del%27s_ontological_proof" title="Gödel's ontological proof">Gödel's ontological proof</a></li>
+<li><a href="/wiki/Gaunilo_of_Marmoutiers" title="Gaunilo of Marmoutiers">Gaunilo of Marmoutiers</a></li>
+<li><a href="/wiki/Identity_and_change" title="Identity and change">Identity and change</a></li>
+<li><a href="/wiki/Meaning_of_life_(philosophy)" class="mw-redirect" title="Meaning of life (philosophy)">Meaning of life</a></li>
+<li><a href="/wiki/Performative_contradiction" title="Performative contradiction">Performative contradiction</a></li>
+<li><a href="/wiki/Right_to_exist" title="Right to exist">Right to exist</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+<li><a href="/wiki/Three_marks_of_existence" title="Three marks of existence">Three marks of existence</a></li>
+<li><a href="/wiki/Personal_experience" title="Personal experience">Personal experience</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=13" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Koshland-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Koshland_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Koshland Jr, Daniel E. (2002). "The Seven Pillars of Life". <i>Science</i>. <b>295</b> (5563): 2215–2216. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a rel="nofollow" class="external text" href="//dx.doi.org/10.1126%2Fscience.1068489">10.1126/science.1068489</a>. <a href="/wiki/PubMed_Identifier" class="mw-redirect" title="PubMed Identifier">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11910092">11910092</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExistence&amp;rft.atitle=The+Seven+Pillars+of+Life&amp;rft.aufirst=Daniel+E.&amp;rft.aulast=Koshland+Jr&amp;rft.date=2002&amp;rft.genre=article&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1068489&amp;rft_id=info%3Apmid%2F11910092&amp;rft.issue=5563&amp;rft.jtitle=Science&amp;rft.pages=2215-2216&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.volume=295" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-AHDLife-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-AHDLife_2-0">^</a></b></span> <span class="reference-text">The <a href="/wiki/American_Heritage_Dictionary" class="mw-redirect" title="American Heritage Dictionary">American Heritage Dictionary</a> of the English Language, 4th edition, published by Houghton Mifflin Company, via <a rel="nofollow" class="external text" href="http://www.answers.com/topic/life">Answers.com</a>:</span>
+<ul>
+<li><span class="reference-text">"The property or quality that distinguishes living organisms from dead organisms and inanimate matter, manifested in functions such as metabolism, growth, reproduction, and response to stimuli or adaptation to the <a href="/wiki/Environment_(biophysical)" title="Environment (biophysical)">environment</a> originating from within the organism."</span></li>
+<li><span class="reference-text">"The characteristic state or condition of a living organism."</span></li>
+</ul>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://wordnetweb.princeton.edu/perl/webwn?s=inanimate">Definition of <i>inanimate</i>.</a> WordNet Search by Princeton University.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Harper, Douglas. <a rel="nofollow" class="external text" href="http://www.etymonline.com/?term=existence">"existence"</a>. <i><a href="/wiki/Online_Etymology_Dictionary" title="Online Etymology Dictionary">Online Etymology Dictionary</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExistence&amp;rft.atitle=existence&amp;rft.au=Harper%2C+Douglas&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2F%3Fterm%3Dexistence&amp;rft.jtitle=Online+Etymology+Dictionary&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Marenbon, John (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=veGCAgAAQBAJ&amp;pg=PA239&amp;lpg=PA239#v=onepage&amp;q&amp;f=false"><i>Medieval Philosophy: An Historical and Philosophical Introduction</i></a>. Routledge. p.&#160;239. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9781134461837" title="Special:BookSources/9781134461837">9781134461837</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExistence&amp;rft.aufirst=John&amp;rft.aulast=Marenbon&amp;rft.btitle=Medieval+Philosophy%3A+An+Historical+and+Philosophical+Introduction&amp;rft.date=2006&amp;rft.genre=book&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DveGCAgAAQBAJ%26pg%3DPA239%26lpg%3DPA239%23v%3Donepage%26q%26f%3Dfalse&amp;rft.isbn=9781134461837&amp;rft.pages=239&amp;rft.pub=Routledge&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><i>The World as Will and Representation</i>, vol. I, § 1</span></li>
+<li id="cite_note-ReferenceA-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ReferenceA_7-0">^</a></b></span> <span class="reference-text"><i>The World as Will and Representation</i>, vol. I, § 7</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a>, <i><a href="/wiki/A_System_of_Logic" title="A System of Logic">A System of Logic</a></i>, 1843 I. iv. 1.page 124</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><i>Uberweg</i> (System of Logic) §68</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><i>On What There Is</i> – in Review of Metaphysics (1948). Reprinted in <a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">W.V.O. Quine</a>, <i>From a Logical Point of View</i> (Harvard University Press, 1953)</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><i>To exist is to have a specific relation to existence – a relation, by the way, which existence itself does not have</i>. <a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a> – <i>The Principles of Mathematics</i> – New York, W. W. Norton &amp; Company, 1903, second edition 1937 pages 449–450.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external free" href="http://www.iep.utm.edu/fict-par/">http://www.iep.utm.edu/fict-par/</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">The Buddhist Publication Society. <a rel="nofollow" class="external text" href="http://www.accesstoinsight.org/lib/authors/various/wheel186.html">"The Three Basic Facts of Existence"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-14</span></span>. <q>(ref.1) Change or impermanence is the essential characteristic of all phenomenal existence. We cannot say of anything, animate or inanimate, organic or inorganic, "this is lasting"; for even while we are saying this, it would be undergoing change. All is fleeting; the beauty of flowers, the bird's melody, the bee's hum, and a sunset's glory.</q></cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExistence&amp;rft.au=The+Buddhist+Publication+Society&amp;rft.btitle=The+Three+Basic+Facts+of+Existence&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.accesstoinsight.org%2Flib%2Fauthors%2Fvarious%2Fwheel186.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a>, <i>The Metaphysics</i>, translated by Hugh Lawson-Tancred, Penguin Classics, 1999, <a href="/wiki/Special:BookSources/0140446192" class="internal mw-magiclink-isbn">ISBN 0-14-044619-2</a>, <a href="/wiki/Special:BookSources/9780140446197" class="internal mw-magiclink-isbn">ISBN 978-0-14-044619-7</a></li>
+<li><a href="/wiki/Antoine_Arnauld" title="Antoine Arnauld">Antoine Arnauld</a> and <a href="/wiki/Pierre_Nicole" title="Pierre Nicole">Pierre Nicole</a> <i>Logic, or the Art of Thinking</i>, (known as the <i><a href="/wiki/Port-Royal_Logic" title="Port-Royal Logic">Port-Royal Logic</a></i>), translated J. Buroker, Cambridge 1996</li>
+<li><a href="/wiki/Terry_Eagleton" title="Terry Eagleton">Terry Eagleton</a>, <i>The Meaning of Life</i>, Oxford University Press, 2007, <a href="/wiki/Special:BookSources/0199210705" class="internal mw-magiclink-isbn">ISBN 0-19-921070-5</a> <a href="/wiki/Special:BookSources/9780199210701" class="internal mw-magiclink-isbn">ISBN 978-0-19-921070-1</a></li>
+<li><a href="/wiki/Heraclitus" title="Heraclitus">Heraclitus</a>, <i>Fragments</i>, James Hilton, forward, Brooks Hexton, translator, Penguin Classics, 2003, <a href="/wiki/Special:BookSources/0142437654" class="internal mw-magiclink-isbn">ISBN 0-14-243765-4</a>, <a href="/wiki/Special:BookSources/9780142437650" class="internal mw-magiclink-isbn">ISBN 978-0-14-243765-0</a></li>
+<li>Michael J. Loux, <i>Ockham's Theory Of Terms</i> (translation of book I of the <i>Summa Logicae</i> c-1327)</li>
+<li><a href="/wiki/Bryan_Magee" title="Bryan Magee">Bryan Magee</a>, <i>The Story of Philosophy</i>, Dorling Kindersley Lond. 1998, <a href="/wiki/Special:BookSources/0751305901" class="internal mw-magiclink-isbn">ISBN 0-7513-0590-1</a></li>
+<li><a href="/wiki/John_Stuart_Mill" title="John Stuart Mill">John Stuart Mill</a>, <i><a href="/wiki/A_System_of_Logic" title="A System of Logic">A System of Logic</a></i>, 8th edition 1908* <a href="/wiki/Plato" title="Plato">Plato</a>, <i>The Republic</i>, translated by Desmond Lee, Penguin Classics, 2003, <a href="/wiki/Special:BookSources/0140449140" class="internal mw-magiclink-isbn">ISBN 0-14-044914-0</a>, <a href="/wiki/Special:BookSources/9780140449143" class="internal mw-magiclink-isbn">ISBN 978-0-14-044914-3</a></li>
+<li>Alvin Thalheimer, <i>The Meaning of the Terms: Existence and Reality.</i> Princeton University Press, 1920</li>
+<li>C.J.F. Williams, <i>What is Existence?</i>, Oxford University Press, 1981</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Existence&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" style="border:1px solid #aaa;background-color:#f9f9f9">
+<tr>
+<td class="mbox-image"><a href="/wiki/File:Wiktionary-logo-v2.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/40px-Wiktionary-logo-v2.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/60px-Wiktionary-logo-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/Wiktionary-logo-v2.svg/80px-Wiktionary-logo-v2.svg.png 2x" data-file-width="391" data-file-height="391" /></a></td>
+<td class="mbox-text plainlist">Look up <i><b><a href="https://en.wiktionary.org/wiki/existence" class="extiw" title="wiktionary:existence">existence</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation encyclopaedia">Nelson, Michael (2012-10-11). <a rel="nofollow" class="external text" href="http://plato.stanford.edu/entries/existence">"Existence"</a>. <i><a href="/wiki/Stanford_Encyclopedia_of_Philosophy" title="Stanford Encyclopedia of Philosophy">Stanford Encyclopedia of Philosophy</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AExistence&amp;rft.atitle=Existence&amp;rft.aufirst=Michael&amp;rft.aulast=Nelson&amp;rft.btitle=Stanford+Encyclopedia+of+Philosophy&amp;rft.date=2012-10-11&amp;rft.genre=bookitem&amp;rft_id=http%3A%2F%2Fplato.stanford.edu%2Fentries%2Fexistence&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></li>
+<li><a rel="nofollow" class="external text" href="http://www.ontology.co/existence.htm">The Concept of Existence: History and Definitions from Leading Philosophers</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.wdl.org/en/item/2983">"A Treatise on Book Titles"</a> is a work by <a href="/wiki/Sayf_al-Din_al-Amidi" title="Sayf al-Din al-Amidi">Sayf al-Din al-Amidi</a>, in Arabic, about "original" and "mental existence". It dates from 1805.</li>
+</ul>
+<p><br /></p>
+<div role="navigation" class="navbox" aria-labelledby="Philosophy" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Philosophy_topics" title="Template:Philosophy topics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Philosophy_topics" title="Template talk:Philosophy topics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Philosophy_topics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Philosophy" style="font-size:114%"><a href="/wiki/Philosophy" title="Philosophy">Philosophy</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Branches" style="font-size:114%"><a href="/wiki/List_of_academic_disciplines#Philosophy" class="mw-redirect" title="List of academic disciplines">Branches</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em">Traditional</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Logic" title="Logic">Logic</a></li>
+<li><a href="/wiki/Ethics" title="Ethics">Ethics</a></li>
+<li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em">Philosophy of</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Action_theory_(philosophy)" title="Action theory (philosophy)">Action</a></li>
+<li><a href="/wiki/Aesthetics" title="Aesthetics">Art</a>
+<ul>
+<li><a href="/wiki/Philosophy_of_culture" title="Philosophy of culture">Culture</a></li>
+<li><a href="/wiki/Philosophy_of_design" title="Philosophy of design">Design</a></li>
+<li><a href="/wiki/Philosophy_of_music" title="Philosophy of music">Music</a></li>
+<li><a href="/wiki/Philosophy_of_film" title="Philosophy of film">Film</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Ontology" title="Ontology">Being</a></li>
+<li><a href="/wiki/Philosophy_of_business" title="Philosophy of business">Business</a></li>
+<li><a href="/wiki/Philosophy_of_color" title="Philosophy of color">Color</a></li>
+<li><a href="/wiki/Cosmology_(philosophy)" title="Cosmology (philosophy)">Cosmos</a></li>
+<li><a href="/wiki/Philosophy_of_dialogue" title="Philosophy of dialogue">Dialogue</a></li>
+<li><a href="/wiki/Philosophy_of_education" title="Philosophy of education">Education</a></li>
+<li><a href="/wiki/Environmental_philosophy" title="Environmental philosophy">Environment</a></li>
+<li><a href="/wiki/Philosophy_of_futility" title="Philosophy of futility">Futility</a></li>
+<li><a href="/wiki/Philosophy_of_happiness" title="Philosophy of happiness">Happiness</a></li>
+<li><a href="/wiki/Philosophy_of_healthcare" title="Philosophy of healthcare">Healthcare</a></li>
+<li><a href="/wiki/Philosophy_of_history" title="Philosophy of history">History</a></li>
+<li><a href="/wiki/Philosophical_anthropology" title="Philosophical anthropology">Human nature</a></li>
+<li><a href="/wiki/Theories_of_humor" title="Theories of humor">Humor</a></li>
+<li><a href="/wiki/Feminist_philosophy" title="Feminist philosophy">Feminism</a></li>
+<li><a href="/wiki/Philosophy_of_language" title="Philosophy of language">Language</a></li>
+<li><a href="/wiki/Philosophy_and_literature" title="Philosophy and literature">Literature</a></li>
+<li><a href="/wiki/Philosophy_of_mathematics" title="Philosophy of mathematics">Mathematics</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Mind</a>
+<ul>
+<li><a href="/wiki/Pain_(philosophy)" title="Pain (philosophy)">Pain</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Psychology</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Metaphilosophy" title="Metaphilosophy">Philosophy</a></li>
+<li><a href="/wiki/Philosophy_of_religion" title="Philosophy of religion">Religion</a></li>
+<li><a href="/wiki/Philosophy_of_science" title="Philosophy of science">Science</a>
+<ul>
+<li><a href="/wiki/Philosophy_of_physics" title="Philosophy of physics">Physics</a></li>
+<li><a href="/wiki/Philosophy_of_chemistry" title="Philosophy of chemistry">Chemistry</a></li>
+<li><a href="/wiki/Philosophy_of_biology" title="Philosophy of biology">Biology</a></li>
+<li><a href="/wiki/Philosophy_of_geography" title="Philosophy of geography">Geography</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Philosophy_of_sex" title="Philosophy of sex">Sexuality</a></li>
+<li><a href="/wiki/Philosophy_of_social_science" title="Philosophy of social science">Social science</a>
+<ul>
+<li><a href="/wiki/Philosophy_of_culture" title="Philosophy of culture">Culture</a></li>
+<li><a href="/wiki/Philosophy_and_economics" title="Philosophy and economics">Economics</a></li>
+<li><a href="/wiki/Justice" title="Justice">Justice</a></li>
+<li><a href="/wiki/Philosophy_of_law" title="Philosophy of law">Law</a></li>
+<li><a href="/wiki/Political_philosophy" title="Political philosophy">Politics</a></li>
+<li><a href="/wiki/Social_philosophy" title="Social philosophy">Society</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Philosophy_of_space_and_time" title="Philosophy of space and time">Space and time</a></li>
+<li><a href="/wiki/Philosophy_of_sport" title="Philosophy of sport">Sport</a></li>
+<li><a href="/wiki/Philosophy_of_technology" title="Philosophy of technology">Technology</a>
+<ul>
+<li><a href="/wiki/Philosophy_of_artificial_intelligence" title="Philosophy of artificial intelligence">Artificial intelligence</a></li>
+<li><a href="/wiki/Philosophy_of_computer_science" title="Philosophy of computer science">Computer science</a></li>
+<li><a href="/wiki/Philosophy_of_engineering" title="Philosophy of engineering">Engineering</a></li>
+<li><a href="/wiki/Philosophy_of_information" title="Philosophy of information">Information</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Philosophy_of_war" title="Philosophy of war">War</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Schools_of_thought" style="font-size:114%"><a href="/wiki/List_of_philosophies" title="List of philosophies">Schools of thought</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/History_of_philosophy" class="mw-redirect" title="History of philosophy">By era</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ancient_philosophy" title="Ancient philosophy">Ancient</a></li>
+<li><a href="/wiki/Western_philosophy" title="Western philosophy">Western</a>
+<ul>
+<li><a href="/wiki/Medieval_philosophy" title="Medieval philosophy">Medieval</a></li>
+<li><a href="/wiki/Renaissance_philosophy" title="Renaissance philosophy">Renaissance</a></li>
+<li><a href="/wiki/Early_modern_philosophy" title="Early modern philosophy">Early modern</a></li>
+<li><a href="/wiki/Modern_philosophy" title="Modern philosophy">Modern</a></li>
+<li><a href="/wiki/Contemporary_philosophy" title="Contemporary philosophy">Contemporary</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Ancient_philosophy" title="Ancient philosophy">Ancient</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Chinese_philosophy" title="Chinese philosophy">Chinese</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agriculturalism" title="Agriculturalism">Agriculturalism</a></li>
+<li><a href="/wiki/Confucianism" title="Confucianism">Confucianism</a></li>
+<li><a href="/wiki/Legalism_(Chinese_philosophy)" title="Legalism (Chinese philosophy)">Legalism</a></li>
+<li><a href="/wiki/School_of_Names" title="School of Names">Logicians</a></li>
+<li><a href="/wiki/Mohism" title="Mohism">Mohism</a></li>
+<li><a href="/wiki/School_of_Naturalists" title="School of Naturalists">Chinese naturalism</a></li>
+<li><a href="/wiki/Xuanxue" title="Xuanxue">Neotaoism</a></li>
+<li><a href="/wiki/Taoism" title="Taoism">Taoism</a></li>
+<li><a href="/wiki/Yangism" title="Yangism">Yangism</a></li>
+<li><a href="/wiki/Zen" title="Zen">Zen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><span style="font-size:90%;"><a href="/wiki/Ancient_Greek_philosophy" title="Ancient Greek philosophy">Greco-</a><a href="/wiki/Hellenistic_philosophy" title="Hellenistic philosophy">Roman</a></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aristotelianism" title="Aristotelianism">Aristotelianism</a></li>
+<li><a href="/wiki/Atomism" title="Atomism">Atomism</a></li>
+<li><a href="/wiki/Cynicism_(philosophy)" title="Cynicism (philosophy)">Cynicism</a></li>
+<li><a href="/wiki/Cyrenaics" title="Cyrenaics">Cyrenaics</a></li>
+<li><a href="/wiki/Eleatics" title="Eleatics">Eleatics</a></li>
+<li><a href="/wiki/Eretrian_school" title="Eretrian school">Eretrian school</a></li>
+<li><a href="/wiki/Epicureanism" title="Epicureanism">Epicureanism</a></li>
+<li><a href="/wiki/Hermeneutics" title="Hermeneutics">Hermeneutics</a></li>
+<li><a href="/wiki/Ionian_School_(philosophy)" title="Ionian School (philosophy)">Ionian</a>
+<ul>
+<li><a href="/wiki/Ephesian_school" title="Ephesian school">Ephesian</a></li>
+<li><a href="/wiki/Milesian_school" title="Milesian school">Milesian</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Megarian_school" title="Megarian school">Megarian school</a></li>
+<li><a href="/wiki/Neoplatonism" title="Neoplatonism">Neoplatonism</a></li>
+<li><a href="/wiki/Peripatetic_school" title="Peripatetic school">Peripatetic</a></li>
+<li><a href="/wiki/Platonism" title="Platonism">Platonism</a></li>
+<li><a href="/wiki/Pluralist_school" title="Pluralist school">Pluralism</a></li>
+<li><a href="/wiki/Pre-Socratic_philosophy" title="Pre-Socratic philosophy">Presocratic</a></li>
+<li><a href="/wiki/Pyrrhonism" title="Pyrrhonism">Pyrrhonism</a></li>
+<li><a href="/wiki/Pythagoreanism" title="Pythagoreanism">Pythagoreanism</a></li>
+<li><a href="/wiki/Neopythagoreanism" title="Neopythagoreanism">Neopythagoreanism</a></li>
+<li><a href="/wiki/Sophism" title="Sophism">Sophism</a></li>
+<li><a href="/wiki/Stoicism" title="Stoicism">Stoicism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Indian_philosophy" title="Indian philosophy">Indian</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Buddhist_philosophy" title="Buddhist philosophy">Buddhist</a></li>
+<li><a href="/wiki/C%C4%81rv%C4%81ka" class="mw-redirect" title="Cārvāka">Cārvāka</a></li>
+<li><a href="/wiki/Hindu_philosophy" title="Hindu philosophy">Hindu</a></li>
+<li><a href="/wiki/Jain_philosophy" title="Jain philosophy">Jain</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Iranian_philosophy" title="Iranian philosophy">Persian</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Mazdak#Mazdakism" title="Mazdak">Mazdakism</a></li>
+<li><a href="/wiki/Zoroastrianism" title="Zoroastrianism">Zoroastrianism</a></li>
+<li><a href="/wiki/Zurvanism" title="Zurvanism">Zurvanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Medieval_philosophy" title="Medieval philosophy">Medieval</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/European_philosophy" class="mw-redirect" title="European philosophy">European</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Christian_philosophy" title="Christian philosophy">Christian philosophy</a></li>
+<li><a href="/wiki/Scholasticism" title="Scholasticism">Scholasticism</a></li>
+<li><a href="/wiki/Thomism" title="Thomism">Thomism</a></li>
+<li><a href="/wiki/Renaissance_humanism" title="Renaissance humanism">Renaissance humanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;">East Asian</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Korean_Confucianism" title="Korean Confucianism">Korean Confucianism</a></li>
+<li><a href="/wiki/Edo_Neo-Confucianism" title="Edo Neo-Confucianism">Edo Neo-Confucianism</a></li>
+<li><a href="/wiki/Neo-Confucianism" title="Neo-Confucianism">Neo-Confucianism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;">Indian</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dvaita" title="Dvaita">Dvaita</a></li>
+<li><a href="/wiki/Navya-Ny%C4%81ya" title="Navya-Nyāya">Navya-Nyāya</a></li>
+<li><a href="/wiki/Vishishtadvaita" title="Vishishtadvaita">Vishishtadvaita</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Islamic_philosophy" title="Islamic philosophy">Islamic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Averroism" title="Averroism">Averroism</a></li>
+<li><a href="/wiki/Avicenna#Avicennian_philosophy" title="Avicenna">Avicennism</a></li>
+<li><a href="/wiki/Illuminationism#Persian_school_of_Illuminationism" title="Illuminationism">Persian Illuminationism</a></li>
+<li><a href="/wiki/Ilm_al-Kalam" class="mw-redirect" title="Ilm al-Kalam">Ilm al-Kalam</a></li>
+<li><a href="/wiki/Sufi_philosophy" title="Sufi philosophy">Sufi</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Jewish_philosophy" title="Jewish philosophy">Jewish</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Judeo-Islamic_philosophies_(800%E2%80%931400)" title="Judeo-Islamic philosophies (800–1400)">Judeo-Islamic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Modern_philosophy" title="Modern philosophy">Modern</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;">People</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cartesianism" title="Cartesianism">Cartesianism</a></li>
+<li><a href="/wiki/Kantianism" title="Kantianism">Kantianism</a></li>
+<li><a href="/wiki/Neo-Kantianism" title="Neo-Kantianism">Neo-Kantianism</a></li>
+<li><a href="/wiki/Hegelianism" title="Hegelianism">Hegelianism</a></li>
+<li><a href="/wiki/Marxist_philosophy" title="Marxist philosophy">Marxism</a></li>
+<li><a href="/wiki/Spinozism" title="Spinozism">Spinozism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><span style="font-size:90%;"><a href="/wiki/Idea" title="Idea">Ideal</a>&#160;/ <a href="/wiki/Matter_(philosophy)" title="Matter (philosophy)">Material</a></span></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Dualism" title="Dualism">Dualism</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a>
+<ul>
+<li><a href="/wiki/Absolute_idealism" title="Absolute idealism">Absolute</a></li>
+<li><a href="/wiki/British_idealism" title="British idealism">British</a></li>
+<li><a href="/wiki/German_idealism" title="German idealism">German</a></li>
+<li><a href="/wiki/Objective_idealism" title="Objective idealism">Objective</a></li>
+<li><a href="/wiki/Subjective_idealism" title="Subjective idealism">Subjective</a></li>
+<li><a href="/wiki/Transcendental_idealism" title="Transcendental idealism">Transcendental</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Classical_realism" class="mw-redirect" title="Classical realism">Classical realism</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism</a></li>
+<li><a href="/wiki/Pragmatism" title="Pragmatism">Pragmatism</a></li>
+<li><a href="/wiki/Reductionism" title="Reductionism">Reductionism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a></li>
+<li><a href="/wiki/Utilitarianism" title="Utilitarianism">Utilitarianism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anarchism" title="Anarchism">Anarchism</a></li>
+<li><a href="/wiki/Collectivism" title="Collectivism">Collectivism</a></li>
+<li><a href="/wiki/New_Confucianism" title="New Confucianism">New Confucianism</a></li>
+<li><a href="/wiki/Conservatism" title="Conservatism">Conservatism</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a></li>
+<li><a href="/wiki/Historicism" title="Historicism">Historicism</a></li>
+<li><a href="/wiki/Holism" title="Holism">Holism</a></li>
+<li><a href="/wiki/Humanism" title="Humanism">Humanism</a></li>
+<li><a href="/wiki/Individualism" title="Individualism">Individualism</a></li>
+<li><a href="/wiki/Kokugaku" title="Kokugaku">Kokugaku</a></li>
+<li><a href="/wiki/Classical_liberalism" title="Classical liberalism">Liberalism</a></li>
+<li><a href="/wiki/Modernism" title="Modernism">Modernism</a></li>
+<li><a href="/wiki/Natural_Law" class="mw-redirect" title="Natural Law">Natural Law</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a></li>
+<li><a href="/wiki/Positivism" title="Positivism">Positivism</a></li>
+<li><a href="/wiki/Neo-Scholasticism" title="Neo-Scholasticism">Neo-Scholasticism</a></li>
+<li><a href="/wiki/Social_contract" title="Social contract">Social contract</a></li>
+<li><a href="/wiki/Socialism" title="Socialism">Socialism</a></li>
+<li><a href="/wiki/Transcendentalism" title="Transcendentalism">Transcendentalism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Contemporary_philosophy" title="Contemporary philosophy">Contemporary</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Analytic_philosophy" title="Analytic philosophy">Analytic</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Applied_ethics" title="Applied ethics">Applied ethics</a></li>
+<li><a href="/wiki/Analytical_feminism" title="Analytical feminism">Analytic feminism</a></li>
+<li><a href="/wiki/Analytical_Marxism" title="Analytical Marxism">Analytical Marxism</a></li>
+<li><a href="/wiki/Communitarianism" title="Communitarianism">Communitarianism</a></li>
+<li><a href="/wiki/Consequentialism" title="Consequentialism">Consequentialism</a></li>
+<li><a href="/wiki/Critical_rationalism" title="Critical rationalism">Critical rationalism</a></li>
+<li><a href="/wiki/Experimental_philosophy" title="Experimental philosophy">Experimental philosophy</a></li>
+<li><a href="/wiki/Falsifiability" title="Falsifiability">Falsificationism</a></li>
+<li><a href="/wiki/Foundationalism" title="Foundationalism">Foundationalism</a>&#160;/ <a href="/wiki/Coherentism" title="Coherentism">Coherentism</a></li>
+<li><a href="/wiki/Generative_linguistics" class="mw-redirect" title="Generative linguistics">Generative linguistics</a></li>
+<li><a href="/wiki/Internalism_and_externalism" title="Internalism and externalism">Internalism and Externalism</a></li>
+<li><a href="/wiki/Logical_positivism" title="Logical positivism">Logical positivism</a></li>
+<li><a href="/wiki/Legal_positivism" title="Legal positivism">Legal positivism</a></li>
+<li><a href="/wiki/Normative_ethics" title="Normative ethics">Normative ethics</a></li>
+<li><a href="/wiki/Meta-ethics" title="Meta-ethics">Meta-ethics</a></li>
+<li><a href="/wiki/Moral_realism" title="Moral realism">Moral realism</a></li>
+<li><a href="/wiki/Virtue_ethics#Contemporary_.27aretaic_turn.27" title="Virtue ethics">Neo-Aristotelian</a></li>
+<li><a href="/wiki/Naturalized_epistemology" title="Naturalized epistemology">Quinean naturalism</a></li>
+<li><a href="/wiki/Ordinary_language_philosophy" title="Ordinary language philosophy">Ordinary language philosophy</a></li>
+<li><a href="/wiki/Postanalytic_philosophy" title="Postanalytic philosophy">Postanalytic philosophy</a></li>
+<li><a href="/wiki/Quietism_(philosophy)" title="Quietism (philosophy)">Quietism</a></li>
+<li><a href="/wiki/John_Rawls" title="John Rawls">Rawlsian</a></li>
+<li><a href="/wiki/Reformed_epistemology" title="Reformed epistemology">Reformed epistemology</a></li>
+<li><a href="/wiki/Systemics" title="Systemics">Systemics</a></li>
+<li><a href="/wiki/Scientism" title="Scientism">Scientism</a></li>
+<li><a href="/wiki/Scientific_realism" title="Scientific realism">Scientific realism</a></li>
+<li><a href="/wiki/Scientific_skepticism" title="Scientific skepticism">Scientific skepticism</a></li>
+<li><a href="/wiki/Utilitarianism#Twentieth-century_developments" title="Utilitarianism">Contemporary utilitarianism</a></li>
+<li><a href="/wiki/Vienna_Circle" title="Vienna Circle">Vienna Circle</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Wittgensteinian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;"><a href="/wiki/Continental_philosophy" title="Continental philosophy">Continental</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Critical_theory" title="Critical theory">Critical theory</a></li>
+<li><a href="/wiki/Deconstruction" title="Deconstruction">Deconstruction</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Feminist_philosophy" title="Feminist philosophy">Feminist</a></li>
+<li><a href="/wiki/Frankfurt_School" title="Frankfurt School">Frankfurt School</a></li>
+<li><a href="/wiki/New_Historicism" title="New Historicism">New Historicism</a></li>
+<li><a href="/wiki/Hermeneutics" title="Hermeneutics">Hermeneutics</a></li>
+<li><a href="/wiki/Neo-Marxism" title="Neo-Marxism">Neo-Marxism</a></li>
+<li><a href="/wiki/Phenomenology_(philosophy)" title="Phenomenology (philosophy)">Phenomenology</a></li>
+<li><a href="/wiki/Postmodern_philosophy" title="Postmodern philosophy">Postmodernism</a></li>
+<li><a href="/wiki/Post-structuralism" title="Post-structuralism">Post-structuralism</a></li>
+<li><a href="/wiki/Social_constructionism" title="Social constructionism">Social constructionism</a></li>
+<li><a href="/wiki/Structuralism" title="Structuralism">Structuralism</a></li>
+<li><a href="/wiki/Western_Marxism" title="Western Marxism">Western Marxism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.6em;font-weight: normal;">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kyoto_School" title="Kyoto School">Kyoto School</a></li>
+<li><a href="/wiki/Objectivism_(Ayn_Rand)" title="Objectivism (Ayn Rand)">Objectivism</a></li>
+<li><a href="/wiki/Russian_cosmism" title="Russian cosmism">Russian cosmism</a></li>
+<li><i><a href="/wiki/List_of_philosophies" title="List of philosophies">more...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Positions" style="font-size:114%">Positions</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Formalism_(art)" title="Formalism (art)">Formalism</a></li>
+<li><a href="/wiki/Institutional_theory_of_art" class="mw-redirect" title="Institutional theory of art">Institutionalism</a></li>
+<li><a href="/wiki/Aesthetic_emotions" title="Aesthetic emotions">Aesthetic response</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Ethics" title="Ethics">Ethics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Consequentialism" title="Consequentialism">Consequentialism</a></li>
+<li><a href="/wiki/Deontology" class="mw-redirect" title="Deontology">Deontology</a></li>
+<li><a href="/wiki/Virtue_ethics" title="Virtue ethics">Virtue</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Free_will" title="Free will">Free will</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Compatibilism" title="Compatibilism">Compatibilism</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Libertarianism_(metaphysics)" title="Libertarianism (metaphysics)">Libertarianism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atomism" title="Atomism">Atomism</a></li>
+<li><a href="/wiki/Dualism" title="Dualism">Dualism</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Metaphysical_naturalism" title="Metaphysical naturalism">Naturalism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Constructivist_epistemology" title="Constructivist epistemology">Constructivism</a></li>
+<li><a href="/wiki/Empiricism" title="Empiricism">Empiricism</a></li>
+<li><a href="/wiki/Epistemological_idealism" title="Epistemological idealism">Idealism</a></li>
+<li><a href="/wiki/Epistemological_particularism" title="Epistemological particularism">Particularism</a></li>
+<li><a href="/wiki/Fideism" title="Fideism">Fideism</a></li>
+<li><a href="/wiki/Rationalism" title="Rationalism">Rationalism</a>&#160;/ <a href="/wiki/Reasonism" title="Reasonism">Reasonism</a></li>
+<li><a href="/wiki/Philosophical_skepticism#Epistemology_and_skepticism" title="Philosophical skepticism">Skepticism</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Mind</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Behaviorism" title="Behaviorism">Behaviorism</a></li>
+<li><a href="/wiki/Emergentism" title="Emergentism">Emergentism</a></li>
+<li><a href="/wiki/Eliminative_materialism" title="Eliminative materialism">Eliminativism</a></li>
+<li><a href="/wiki/Epiphenomenalism" title="Epiphenomenalism">Epiphenomenalism</a></li>
+<li><a href="/wiki/Functionalism_(philosophy_of_mind)" title="Functionalism (philosophy of mind)">Functionalism</a></li>
+<li><a href="/wiki/Objectivity_(philosophy)" title="Objectivity (philosophy)">Objectivism</a></li>
+<li><a href="/wiki/Subjectivism" title="Subjectivism">Subjectivism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Norm_(philosophy)" title="Norm (philosophy)">Normativity</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Moral_absolutism" title="Moral absolutism">Absolutism</a></li>
+<li><a href="/wiki/Moral_particularism" title="Moral particularism">Particularism</a></li>
+<li><a href="/wiki/Relativism" title="Relativism">Relativism</a></li>
+<li><a href="/wiki/Moral_nihilism" title="Moral nihilism">Nihilism</a></li>
+<li><a href="/wiki/Moral_skepticism" title="Moral skepticism">Skepticism</a></li>
+<li><a href="/wiki/Moral_universalism" title="Moral universalism">Universalism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Ontology" title="Ontology">Ontology</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Action_theory_(philosophy)" title="Action theory (philosophy)">Action</a></li>
+<li><a href="/wiki/Event_(philosophy)" title="Event (philosophy)">Event</a></li>
+<li><a href="/wiki/Process_philosophy" title="Process philosophy">Process</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em"><a href="/wiki/Reality" title="Reality">Reality</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a></li>
+<li><a href="/wiki/Conceptualism" title="Conceptualism">Conceptualism</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism</a></li>
+<li><a href="/wiki/Nominalism" title="Nominalism">Nominalism</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a></li>
+<li><a href="/wiki/Philosophical_realism" title="Philosophical realism">Realism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-even" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="col" class="navbox-title" colspan="2" style=";"><span style="float:left;width:6em">&#160;</span>
+<div id="Philosophy_by_regionPhilosophy-related_listsMiscellaneous" style="font-size:114%">
+<div class="hlist">
+<ul>
+<li>Philosophy by region</li>
+<li>Philosophy-related lists</li>
+<li>Miscellaneous</li>
+</ul>
+</div>
+</div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em">By region</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/African_philosophy" title="African philosophy">African</a></li>
+<li><a href="/wiki/Ethiopian_philosophy" title="Ethiopian philosophy">Ethiopian</a></li>
+<li><a href="/wiki/Aztec_philosophy" title="Aztec philosophy">Aztec</a></li>
+<li><a href="/wiki/Indigenous_American_philosophy" title="Indigenous American philosophy">Native America</a></li>
+<li><a href="/wiki/Eastern_philosophy" title="Eastern philosophy">Eastern</a></li>
+<li><a href="/wiki/Chinese_philosophy" title="Chinese philosophy">Chinese</a></li>
+<li><a href="/wiki/Ancient_Egyptian_philosophy" title="Ancient Egyptian philosophy">Egyptian</a></li>
+<li><a href="/wiki/Czech_philosophy" title="Czech philosophy">Czech</a></li>
+<li><a href="/wiki/Indian_philosophy" title="Indian philosophy">Indian</a></li>
+<li><a href="/wiki/Indonesian_philosophy" title="Indonesian philosophy">Indonesian</a></li>
+<li><a href="/wiki/Iranian_philosophy" title="Iranian philosophy">Iranian</a></li>
+<li><a href="/wiki/Japanese_philosophy" title="Japanese philosophy">Japanese</a></li>
+<li><a href="/wiki/Korean_philosophy" title="Korean philosophy">Korean</a></li>
+<li><a href="/wiki/Vietnamese_philosophy" title="Vietnamese philosophy">Vietnam</a></li>
+<li><a href="/wiki/Pakistani_philosophy" title="Pakistani philosophy">Pakistani</a></li>
+<li><a href="/wiki/Western_philosophy" title="Western philosophy">Western</a></li>
+<li><a href="/wiki/American_philosophy" title="American philosophy">American</a></li>
+<li><a href="/wiki/Australian_philosophy" title="Australian philosophy">Australian</a></li>
+<li><a href="/wiki/British_philosophy" title="British philosophy">British</a></li>
+<li><a href="/wiki/Danish_philosophy" title="Danish philosophy">Danish</a></li>
+<li><a href="/wiki/French_philosophy" title="French philosophy">French</a></li>
+<li><a href="/wiki/German_philosophy" title="German philosophy">German</a></li>
+<li><a href="/wiki/Ancient_Greek_philosophy" title="Ancient Greek philosophy">Greek</a></li>
+<li><a href="/wiki/Italian_philosophy" title="Italian philosophy">Italian</a></li>
+<li><a href="/wiki/Polish_philosophy" class="mw-redirect" title="Polish philosophy">Polish</a></li>
+<li><a href="/wiki/Romanian_philosophy" title="Romanian philosophy">Romanian</a></li>
+<li><a href="/wiki/Russian_philosophy" class="mw-redirect" title="Russian philosophy">Russian</a></li>
+<li><a href="/wiki/Slovene_philosophy" class="mw-redirect" title="Slovene philosophy">Slovene</a></li>
+<li><a href="/wiki/Turkish_philosophy" title="Turkish philosophy">Turkish</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em">Lists</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Outline_of_philosophy" title="Outline of philosophy">Outline</a></li>
+<li><a href="/wiki/Index_of_philosophy" title="Index of philosophy">Index</a></li>
+<li><a href="/wiki/List_of_years_in_philosophy" title="List of years in philosophy">Years</a></li>
+<li><a href="/wiki/List_of_unsolved_problems_in_philosophy" title="List of unsolved problems in philosophy">Problems</a></li>
+<li><a href="/wiki/List_of_philosophies" title="List of philosophies">Schools</a></li>
+<li><a href="/wiki/Glossary_of_philosophy" title="Glossary of philosophy">Glossary</a></li>
+<li><a href="/wiki/Lists_of_philosophers" title="Lists of philosophers">Philosophers</a></li>
+<li><a href="/wiki/Philosophical_movement" title="Philosophical movement">Movements</a></li>
+<li><a href="/wiki/List_of_important_publications_in_philosophy" title="List of important publications in philosophy">Publications</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group" style="width:6.8em">Miscellaneous</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Women_in_philosophy" title="Women in philosophy">Women in philosophy</a></li>
+<li><a href="/wiki/Sage_(philosophy)" title="Sage (philosophy)">Sage (philosophy)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Portal:Philosophy" title="Portal:Philosophy">Portal</a></li>
+<li><a href="/wiki/Category:Philosophy" title="Category:Philosophy">Category</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div role="navigation" class="navbox" aria-labelledby="Metaphysics" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th scope="col" class="navbox-title" colspan="2">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Metaphysics" title="Template:Metaphysics"><abbr title="View this template" style=";;background:none transparent;border:none;">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Metaphysics" title="Template talk:Metaphysics"><abbr title="Discuss this template" style=";;background:none transparent;border:none;">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Metaphysics&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;">e</abbr></a></li>
+</ul>
+</div>
+<div id="Metaphysics" style="font-size:114%"><a href="/wiki/Metaphysics" title="Metaphysics">Metaphysics</a></div>
+</th>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Metaphysicians</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Parmenides" title="Parmenides">Parmenides</a></li>
+<li><a href="/wiki/Plato" title="Plato">Plato</a></li>
+<li><a href="/wiki/Aristotle" title="Aristotle">Aristotle</a></li>
+<li><a href="/wiki/Plotinus" title="Plotinus">Plotinus</a></li>
+<li><a href="/wiki/Duns_Scotus" title="Duns Scotus">Duns Scotus</a></li>
+<li><a href="/wiki/Thomas_Aquinas" title="Thomas Aquinas">Thomas Aquinas</a></li>
+<li><a href="/wiki/Francisco_Su%C3%A1rez" title="Francisco Suárez">Francisco Suárez</a></li>
+<li><a href="/wiki/Nicolas_Malebranche" title="Nicolas Malebranche">Nicolas Malebranche</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">René Descartes</a></li>
+<li><a href="/wiki/John_Locke" title="John Locke">John Locke</a></li>
+<li><a href="/wiki/David_Hume" title="David Hume">David Hume</a></li>
+<li><a href="/wiki/Thomas_Reid" title="Thomas Reid">Thomas Reid</a></li>
+<li><a href="/wiki/Immanuel_Kant" title="Immanuel Kant">Immanuel Kant</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a></li>
+<li><a href="/wiki/Arthur_Schopenhauer" title="Arthur Schopenhauer">Arthur Schopenhauer</a></li>
+<li><a href="/wiki/Baruch_Spinoza" title="Baruch Spinoza">Baruch Spinoza</a></li>
+<li><a href="/wiki/Georg_Wilhelm_Friedrich_Hegel" title="Georg Wilhelm Friedrich Hegel">Georg W. F. Hegel</a></li>
+<li><a href="/wiki/George_Berkeley" title="George Berkeley">George Berkeley</a></li>
+<li><a href="/wiki/Gottfried_Wilhelm_Leibniz" title="Gottfried Wilhelm Leibniz">Gottfried Wilhelm Leibniz</a></li>
+<li><a href="/wiki/Henri_Bergson" title="Henri Bergson">Henri Bergson</a></li>
+<li><a href="/wiki/Friedrich_Nietzsche" title="Friedrich Nietzsche">Friedrich Nietzsche</a></li>
+<li><a href="/wiki/Charles_Sanders_Peirce" title="Charles Sanders Peirce">Charles Sanders Peirce</a></li>
+<li><a href="/wiki/Joseph_Mar%C3%A9chal" title="Joseph Maréchal">Joseph Maréchal</a></li>
+<li><a href="/wiki/Ludwig_Wittgenstein" title="Ludwig Wittgenstein">Ludwig Wittgenstein</a></li>
+<li><a href="/wiki/Martin_Heidegger" title="Martin Heidegger">Martin Heidegger</a></li>
+<li><a href="/wiki/Alfred_North_Whitehead" title="Alfred North Whitehead">Alfred N. Whitehead</a></li>
+<li><a href="/wiki/Bertrand_Russell" title="Bertrand Russell">Bertrand Russell</a></li>
+<li><a href="/wiki/Dorothy_Emmet" title="Dorothy Emmet">Dorothy Emmet</a></li>
+<li><a href="/wiki/G._E._Moore" title="G. E. Moore">G. E. Moore</a></li>
+<li><a href="/wiki/Jean-Paul_Sartre" title="Jean-Paul Sartre">Jean-Paul Sartre</a></li>
+<li><a href="/wiki/Gilbert_Ryle" title="Gilbert Ryle">Gilbert Ryle</a></li>
+<li><a href="/wiki/Hilary_Putnam" title="Hilary Putnam">Hilary Putnam</a></li>
+<li><a href="/wiki/P._F._Strawson" title="P. F. Strawson">P. F. Strawson</a></li>
+<li><a href="/wiki/R._G._Collingwood" title="R. G. Collingwood">R. G. Collingwood</a></li>
+<li><a href="/wiki/Adolph_St%C3%B6hr" title="Adolph Stöhr">Adolph Stöhr</a></li>
+<li><a href="/wiki/Rudolf_Carnap" title="Rudolf Carnap">Rudolf Carnap</a></li>
+<li><a href="/wiki/Saul_Kripke" title="Saul Kripke">Saul Kripke</a></li>
+<li><a href="/wiki/Willard_Van_Orman_Quine" title="Willard Van Orman Quine">Willard V. O. Quine</a></li>
+<li><a href="/wiki/G._E._M._Anscombe" class="mw-redirect" title="G. E. M. Anscombe">G. E. M. Anscombe</a></li>
+<li><a href="/wiki/Donald_Davidson_(philosopher)" title="Donald Davidson (philosopher)">Donald Davidson</a></li>
+<li><a href="/wiki/Michael_Dummett" title="Michael Dummett">Michael Dummett</a></li>
+<li><a href="/wiki/David_Malet_Armstrong" title="David Malet Armstrong">David Malet Armstrong</a></li>
+<li><a href="/wiki/David_Lewis_(philosopher)" title="David Lewis (philosopher)">David Lewis</a></li>
+<li><a href="/wiki/Alvin_Plantinga" title="Alvin Plantinga">Alvin Plantinga</a></li>
+<li><a href="/wiki/Peter_van_Inwagen" title="Peter van Inwagen">Peter van Inwagen</a></li>
+<li><a href="/wiki/Derek_Parfit" title="Derek Parfit">Derek Parfit</a></li>
+<li><i><a href="/wiki/List_of_metaphysicians" title="List of metaphysicians">more ...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Theories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abstract_object_theory" title="Abstract object theory">Abstract object theory</a></li>
+<li><a href="/wiki/Action_theory_(philosophy)" title="Action theory (philosophy)">Action theory</a></li>
+<li><a href="/wiki/Anti-realism" title="Anti-realism">Anti-realism</a></li>
+<li><a href="/wiki/Determinism" title="Determinism">Determinism</a></li>
+<li><a href="/wiki/Dualism" title="Dualism">Dualism</a></li>
+<li><a href="/wiki/Enactivism_(psychology)" class="mw-redirect" title="Enactivism (psychology)">Enactivism</a></li>
+<li><a href="/wiki/Essentialism" title="Essentialism">Essentialism</a></li>
+<li><a href="/wiki/Existentialism" title="Existentialism">Existentialism</a></li>
+<li><a href="/wiki/Free_will" title="Free will">Free will</a></li>
+<li><a href="/wiki/Idealism" title="Idealism">Idealism</a></li>
+<li><a href="/wiki/Libertarianism_(metaphysics)" title="Libertarianism (metaphysics)">Libertarianism</a></li>
+<li><a href="/wiki/Liberty" title="Liberty">Liberty</a></li>
+<li><a href="/wiki/Materialism" title="Materialism">Materialism</a></li>
+<li><a href="/wiki/Meaning_of_life" title="Meaning of life">Meaning of life</a></li>
+<li><a href="/wiki/Monism" title="Monism">Monism</a></li>
+<li><a href="/wiki/Naturalism_(philosophy)" title="Naturalism (philosophy)">Naturalism</a></li>
+<li><a href="/wiki/Nihilism" title="Nihilism">Nihilism</a></li>
+<li><a href="/wiki/Phenomenalism" title="Phenomenalism">Phenomenalism</a></li>
+<li><a href="/wiki/Philosophical_realism" title="Philosophical realism">Realism</a></li>
+<li><a href="/wiki/Physicalism" title="Physicalism">Physicalism</a></li>
+<li><a href="/wiki/Pirsig%27s_metaphysics_of_Quality" title="Pirsig's metaphysics of Quality">Pirsig's metaphysics of Quality</a></li>
+<li><a href="/wiki/Platonic_idealism" title="Platonic idealism">Platonic idealism</a></li>
+<li><a href="/wiki/Relativism" title="Relativism">Relativism</a></li>
+<li><a href="/wiki/Scientific_realism" title="Scientific realism">Scientific realism</a></li>
+<li><a href="/wiki/Solipsism" title="Solipsism">Solipsism</a></li>
+<li><a href="/wiki/Subjectivism" title="Subjectivism">Subjectivism</a></li>
+<li><a href="/wiki/Substance_theory" title="Substance theory">Substance theory</a></li>
+<li><a href="/wiki/Type_theory" title="Type theory">Type theory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abstract_and_concrete" title="Abstract and concrete">Abstract object</a></li>
+<li><a href="/wiki/Anima_mundi" title="Anima mundi">Anima mundi</a></li>
+<li><a href="/wiki/Being" title="Being">Being</a></li>
+<li><a href="/wiki/Category_of_being" title="Category of being">Category of being</a></li>
+<li><a href="/wiki/Causality" title="Causality">Causality</a></li>
+<li><a href="/wiki/Choice" title="Choice">Choice</a></li>
+<li><a href="/wiki/Cogito_ergo_sum" title="Cogito ergo sum">Cogito ergo sum</a></li>
+<li><a href="/wiki/Concept" title="Concept">Concept</a></li>
+<li><a href="/wiki/Embodied_cognition" title="Embodied cognition">Embodied cognition</a></li>
+<li><a href="/wiki/Entity" title="Entity">Entity</a></li>
+<li><a href="/wiki/Essence" title="Essence">Essence</a></li>
+<li><strong class="selflink">Existence</strong></li>
+<li><a href="/wiki/Experience" title="Experience">Experience</a></li>
+<li><a href="/wiki/Hypostatic_abstraction" title="Hypostatic abstraction">Hypostatic abstraction</a></li>
+<li><a href="/wiki/Idea" title="Idea">Idea</a></li>
+<li><a href="/wiki/Identity_(philosophy)" title="Identity (philosophy)">Identity</a></li>
+<li><a href="/wiki/Identity_and_change" title="Identity and change">Identity and change</a></li>
+<li><a href="/wiki/Information" title="Information">Information</a></li>
+<li><a href="/wiki/Insight" title="Insight">Insight</a></li>
+<li><a href="/wiki/Intelligence" title="Intelligence">Intelligence</a></li>
+<li><a href="/wiki/Intention" title="Intention">Intention</a></li>
+<li><a href="/wiki/Linguistic_modality" title="Linguistic modality">Linguistic modality</a></li>
+<li><a href="/wiki/Matter_(philosophy)" title="Matter (philosophy)">Matter</a></li>
+<li><a href="/wiki/Meaning_(existential)" title="Meaning (existential)">Meaning</a></li>
+<li><a href="/wiki/Memetics" title="Memetics">Memetics</a></li>
+<li><a href="/wiki/Mental_representation" title="Mental representation">Mental representation</a></li>
+<li><a href="/wiki/Mind" title="Mind">Mind</a></li>
+<li><a href="/wiki/Motion_(physics)" title="Motion (physics)">Motion</a></li>
+<li><a href="/wiki/Necessity" title="Necessity">Necessity</a></li>
+<li><a href="/wiki/Notion_(philosophy)" title="Notion (philosophy)">Notion</a></li>
+<li><a href="/wiki/Object_(philosophy)" title="Object (philosophy)">Object</a></li>
+<li><a href="/wiki/Pattern" title="Pattern">Pattern</a></li>
+<li><a href="/wiki/Perception" title="Perception">Perception</a></li>
+<li><a href="/wiki/Physical_body" title="Physical body">Physical body</a></li>
+<li><a href="/wiki/Principle" title="Principle">Principle</a></li>
+<li><a href="/wiki/Property_(philosophy)" title="Property (philosophy)">Property</a></li>
+<li><a href="/wiki/Qualia" title="Qualia">Qualia</a></li>
+<li><a href="/wiki/Quality_(philosophy)" title="Quality (philosophy)">Quality</a></li>
+<li><a href="/wiki/Reality" title="Reality">Reality</a></li>
+<li><a href="/wiki/Soul" title="Soul">Soul</a></li>
+<li><a href="/wiki/Subject_(philosophy)" title="Subject (philosophy)">Subject</a></li>
+<li><a href="/wiki/Substantial_form" title="Substantial form">Substantial form</a></li>
+<li><a href="/wiki/Thought" title="Thought">Thought</a></li>
+<li><a href="/wiki/Time" title="Time">Time</a></li>
+<li><a href="/wiki/Truth" title="Truth">Truth</a></li>
+<li><a href="/wiki/Type%E2%80%93token_distinction" title="Type–token distinction">Type–token distinction</a></li>
+<li><a href="/wiki/Universal_(metaphysics)" title="Universal (metaphysics)">Universal</a></li>
+<li><a href="/wiki/Unobservable" title="Unobservable">Unobservable</a></li>
+<li><a href="/wiki/Value_(ethics)" title="Value (ethics)">Value</a></li>
+<li><i><a href="/wiki/Index_of_metaphysics_articles" title="Index of metaphysics articles">more ...</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<th scope="row" class="navbox-group">Related topics</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Axiology" title="Axiology">Axiology</a></li>
+<li><a href="/wiki/Cosmology_(philosophy)" title="Cosmology (philosophy)">Cosmology</a></li>
+<li><a href="/wiki/Epistemology" title="Epistemology">Epistemology</a></li>
+<li><a href="/wiki/Feminist_metaphysics" title="Feminist metaphysics">Feminist metaphysics</a></li>
+<li><a href="/wiki/Interpretations_of_quantum_mechanics" title="Interpretations of quantum mechanics">Interpretations of quantum mechanics</a></li>
+<li><a href="/wiki/Meta" title="Meta">Meta-</a></li>
+<li><a href="/wiki/Ontology" title="Ontology">Ontology</a></li>
+<li><a href="/wiki/Philosophy_of_mind" title="Philosophy of mind">Philosophy of mind</a></li>
+<li><a href="/wiki/Philosophy_of_psychology" title="Philosophy of psychology">Philosophy of psychology</a></li>
+<li><a href="/wiki/Philosophy_of_self" title="Philosophy of self">Philosophy of self</a></li>
+<li><a href="/wiki/Philosophy_of_space_and_time" title="Philosophy of space and time">Philosophy of space and time</a></li>
+<li><a href="/wiki/Teleology" title="Teleology">Teleology</a></li>
+<li><a href="/wiki/Theoretical_physics" title="Theoretical physics">Theoretical physics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr style="height:2px">
+<td colspan="2"></td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Metaphysics" title="Category:Metaphysics">Category</a></li>
+<li><img alt="Portal" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" title="Portal" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /> <a href="/wiki/Portal:Metaphysics" title="Portal:Metaphysics">Portal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:9302-0!*!0!!en!4!* and timestamp 20160806153638 and revision id 730621840
+ -->
+<noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Existence&amp;oldid=730621840">https://en.wikipedia.org/w/index.php?title=Existence&amp;oldid=730621840</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Ontology" title="Category:Ontology">Ontology</a></li><li><a href="/wiki/Category:Concepts_in_metaphysics" title="Category:Concepts in metaphysics">Concepts in metaphysics</a></li><li><a href="/wiki/Category:Philosophy_of_life" title="Category:Philosophy of life">Philosophy of life</a></li><li><a href="/wiki/Category:Reality" title="Category:Reality">Reality</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_introduction_cleanup_from_March_2012" title="Category:Wikipedia introduction cleanup from March 2012">Wikipedia introduction cleanup from March 2012</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_March_2012" title="Category:Articles covered by WikiProject Wikify from March 2012">Articles covered by WikiProject Wikify from March 2012</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_April_2009" title="Category:Articles needing additional references from April 2009">Articles needing additional references from April 2009</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2016" title="Category:Articles with unsourced statements from May 2016">Articles with unsourced statements from May 2016</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_January_2010" title="Category:Articles that may contain original research from January 2010">Articles that may contain original research from January 2010</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_August_2009" title="Category:Articles with disputed statements from August 2009">Articles with disputed statements from August 2009</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Existence" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Existence" title="You're encouraged to log in; however, it's not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+															<li  id="ca-nstab-main" class="selected"><span><a href="/wiki/Existence"  title="View the content page [c]" accesskey="c">Article</a></span></li>
+															<li  id="ca-talk"><span><a href="/wiki/Talk:Existence"  title="Discussion about the content page [t]" accesskey="t" rel="discussion">Talk</a></span></li>
+													</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<h3 id="p-variants-label">
+							<span>Variants</span><a href="#"></a>
+						</h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+															<li id="ca-view" class="selected"><span><a href="/wiki/Existence" >Read</a></span></li>
+															<li id="ca-edit"><span><a href="/w/index.php?title=Existence&amp;action=edit"  title="Edit this page [e]" accesskey="e">Edit</a></span></li>
+															<li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Existence&amp;action=history"  title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>
+													</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<h3 id="p-cactions-label"><span>More</span><a href="#"></a></h3>
+
+						<div class="menu">
+							<ul>
+															</ul>
+						</div>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+							<input type="search" name="search" placeholder="Search" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id='p-navigation' aria-labelledby='p-navigation-label'>
+			<h3 id='p-navigation-label'>Navigation</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-interaction' aria-labelledby='p-interaction-label'>
+			<h3 id='p-interaction-label'>Interaction</h3>
+
+			<div class="body">
+									<ul>
+						<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-tb' aria-labelledby='p-tb-label'>
+			<h3 id='p-tb-label'>Tools</h3>
+
+			<div class="body">
+									<ul>
+						<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Existence" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Existence" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Existence&amp;oldid=730621840" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Existence&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Q468777" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Existence&amp;id=730621840" title="Information on how to cite this page">Cite this page</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-coll-print_export' aria-labelledby='p-coll-print_export-label'>
+			<h3 id='p-coll-print_export-label'>Print/export</h3>
+
+			<div class="body">
+									<ul>
+						<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Existence">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:Book&amp;bookcmd=render_article&amp;arttitle=Existence&amp;returnto=Existence&amp;oldid=730621840&amp;writer=rdf2latex">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Existence&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-wikibase-otherprojects' aria-labelledby='p-wikibase-otherprojects-label'>
+			<h3 id='p-wikibase-otherprojects-label'>In other projects</h3>
+
+			<div class="body">
+									<ul>
+						<li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Existence" hreflang="en">Wikiquote</a></li>					</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id='p-lang' aria-labelledby='p-lang-label'>
+			<h3 id='p-lang-label'>Languages</h3>
+
+			<div class="body">
+									<ul>
+						<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%88%D8%AC%D9%88%D8%AF" title="وجود – Arabic" lang="ar" hreflang="ar">العربية</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B7%D1%96%D1%81%D1%82%D1%8D%D0%BD%D1%86%D1%8B%D1%8F" title="Экзістэнцыя – Belarusian" lang="be" hreflang="be">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B7%D1%8B%D1%81%D1%82%D1%8D%D0%BD%D1%86%D1%8B%D1%8F" title="Экзыстэнцыя – беларуская (тарашкевіца)‎" lang="be-x-old" hreflang="be-x-old">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Exist%C3%A8ncia" title="Existència – Catalan" lang="ca" hreflang="ca">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Existence" title="Existence – Czech" lang="cs" hreflang="cs">Čeština</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Eksistens" title="Eksistens – Danish" lang="da" hreflang="da">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Existenz" title="Existenz – German" lang="de" hreflang="de">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%95%CE%AF%CE%BD%CE%B1%CE%B9" title="Είναι – Greek" lang="el" hreflang="el">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Existencia" title="Existencia – Spanish" lang="es" hreflang="es">Español</a></li><li class="interlanguage-link interwiki-eo badge-Q17437796 badge-featuredarticle" title="featured article"><a href="https://eo.wikipedia.org/wiki/Ekzisto" title="Ekzisto – Esperanto" lang="eo" hreflang="eo">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%87%D8%B3%D8%AA%DB%8C" title="هستی – Persian" lang="fa" hreflang="fa">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Existence_(philosophie)" title="Existence (philosophie) – French" lang="fr" hreflang="fr">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Existencia" title="Existencia – Galician" lang="gl" hreflang="gl">Galego</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E5%AD%98%E5%9C%A8" title="存在 – Gan Chinese" lang="gan" hreflang="gan">贛語</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%A1%B4%EC%9E%AC" title="존재 – Korean" lang="ko" hreflang="ko">한국어</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Egzistencija" title="Egzistencija – Croatian" lang="hr" hreflang="hr">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Ekstensi" title="Ekstensi – Indonesian" lang="id" hreflang="id">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Existentia" title="Existentia – Interlingua" lang="ia" hreflang="ia">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Tilvist" title="Tilvist – Icelandic" lang="is" hreflang="is">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Esistenza" title="Esistenza – Italian" lang="it" hreflang="it">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%95%D7%9D" title="קיום – Hebrew" lang="he" hreflang="he">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%94%E1%83%92%E1%83%96%E1%83%98%E1%83%A1%E1%83%A2%E1%83%94%E1%83%9C%E1%83%AA%E1%83%98%E1%83%90" title="ეგზისტენცია – Georgian" lang="ka" hreflang="ka">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%A2%D1%96%D1%80%D1%88%D1%96%D0%BB%D1%96%D0%BA" title="Тіршілік – Kazakh" lang="kk" hreflang="kk">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%AD%D0%BA%D0%B7%D0%B8%D1%81%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D1%8F" title="Экзистенция – Kyrgyz" lang="ky" hreflang="ky">Кыргызча</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/A_l%C3%A9tez%C5%91" title="A létező – Hungarian" lang="hu" hreflang="hu">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Bestaan" title="Bestaan – Dutch" lang="nl" hreflang="nl">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E5%AD%98%E5%9C%A8" title="存在 – Japanese" lang="ja" hreflang="ja">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Eksistens" title="Eksistens – Norwegian" lang="no" hreflang="no">Norsk bokmål</a></li><li class="interlanguage-link interwiki-jam"><a href="https://jam.wikipedia.org/wiki/Egzistans" title="Egzistans – Jamaican Creole English" lang="jam" hreflang="jam">Patois</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Istnienie" title="Istnienie – Polish" lang="pl" hreflang="pl">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Exist%C3%AAncia" title="Existência – Portuguese" lang="pt" hreflang="pt">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Existen%C8%9B%C4%83" title="Existență – Romanian" lang="ro" hreflang="ro">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D1%83%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5" title="Существование – Russian" lang="ru" hreflang="ru">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Existence" title="Existence – Simple English" lang="simple" hreflang="simple">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Existencia_(vlastnos%C5%A5_bytia)" title="Existencia (vlastnosť bytia) – Slovak" lang="sk" hreflang="sk">Slovenčina</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%DA%BE%DB%95%D8%A8%D9%88%D9%88%D9%86" title="ھەبوون – Central Kurdish" lang="ckb" hreflang="ckb">کوردیی ناوەندی</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%BE%D1%81%D1%82%D0%BE%D1%98%D0%B0%D1%9A%D0%B5" title="Постојање – Serbian" lang="sr" hreflang="sr">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Egzistencija" title="Egzistencija – Serbo-Croatian" lang="sh" hreflang="sh">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Olemassaolo" title="Olemassaolo – Finnish" lang="fi" hreflang="fi">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Existens" title="Existens – Swedish" lang="sv" hreflang="sv">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Pag-iral" title="Pag-iral – Tagalog" lang="tl" hreflang="tl">Tagalog</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%AF%D1%88%D3%99%D2%AF" title="Яшәү – Tatar" lang="tt" hreflang="tt">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B3%E0%B8%A3%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B8%B9%E0%B9%88" title="การดำรงอยู่ – Thai" lang="th" hreflang="th">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Varolu%C5%9F" title="Varoluş – Turkish" lang="tr" hreflang="tr">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%86%D1%81%D0%BD%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Існування – Ukrainian" lang="uk" hreflang="uk">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/S%E1%BB%B1_t%E1%BB%93n_t%E1%BA%A1i" title="Sự tồn tại – Vietnamese" lang="vi" hreflang="vi">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%AD%98%E5%9C%A8" title="存在 – Chinese" lang="zh" hreflang="zh">中文</a></li><li class="uls-p-lang-dummy"><a href="#"></a></li>					</ul>
+				<div class='after-portlet after-portlet-lang'><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Q468777#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+		<div id="footer" role="contentinfo">
+							<ul id="footer-info">
+											<li id="footer-info-lastmod"> This page was last modified on 20 July 2016, at 06:24.</li>
+											<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+									</ul>
+							<ul id="footer-places">
+											<li id="footer-places-privacy"><a href="https://wikimediafoundation.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+											<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+											<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+											<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+											<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+											<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+											<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Existence&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+									</ul>
+										<ul id="footer-icons" class="noprint">
+											<li id="footer-copyrightico">
+							<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>						</li>
+											<li id="footer-poweredbyico">
+							<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>						</li>
+									</ul>
+						<div style="clear:both"></div>
+		</div>
+		<script>(window.RLQ=window.RLQ||[]).push(function(){mw.loader.state({"ext.globalCssJs.site":"ready","ext.globalCssJs.user":"ready","user":"ready"});mw.loader.load(["ext.cite.a11y","mediawiki.toc","mediawiki.action.view.postEdit","site","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.eventLogging.subscriber","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.switcher","ext.gadget.featured-articles-links","mmv.bootstrap.autostart","ext.visualEditor.targetLoader","ext.wikimediaEvents","ext.navigationTiming","schema.UniversalLanguageSelector","ext.uls.eventlogger","ext.uls.interlanguage","ext.centralNotice.startUp","ext.centralNotice.geoIP"]);});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set( {
+    "wgPageParseReport": {
+        "limitreport": {
+            "cputime": "0.312",
+            "walltime": "0.453",
+            "ppvisitednodes": {
+                "value": 2465,
+                "limit": 1000000
+            },
+            "ppgeneratednodes": {
+                "value": 0,
+                "limit": 1500000
+            },
+            "postexpandincludesize": {
+                "value": 247007,
+                "limit": 2097152
+            },
+            "templateargumentsize": {
+                "value": 29655,
+                "limit": 2097152
+            },
+            "expansiondepth": {
+                "value": 16,
+                "limit": 40
+            },
+            "expensivefunctioncount": {
+                "value": 6,
+                "limit": 500
+            },
+            "timingprofile": [
+                "100.00%  335.301      1 -total",
+                " 19.24%   64.528      3 Template:Ambox",
+                " 18.15%   60.851      1 Template:Philosophy_topics",
+                " 16.92%   56.723      1 Template:Reflist",
+                " 16.77%   56.242      1 Template:Navbox_with_collapsible_groups",
+                " 15.41%   51.682      1 Template:Multiple_issues",
+                " 14.69%   49.257      9 Template:Navbox",
+                " 11.87%   39.789      3 Template:Fix",
+                "  9.12%   30.581      1 Template:Philosophy_sidebar",
+                "  8.42%   28.249      1 Template:Cite_journal"
+            ]
+        },
+        "scribunto": {
+            "limitreport-timeusage": {
+                "value": "0.111",
+                "limit": "10.000"
+            },
+            "limitreport-memusage": {
+                "value": 4998634,
+                "limit": 52428800
+            }
+        },
+        "EntityAccessCount": 0,
+        "cachereport": {
+            "origin": "mw1267",
+            "timestamp": "20160806153639",
+            "ttl": 2592000,
+            "transientcontent": false
+        }
+    }
+} );});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1211"});});</script>
+	</body>
+</html>

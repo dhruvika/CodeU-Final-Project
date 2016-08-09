@@ -105,26 +105,12 @@ public class WikiSearch {
 	 * @param that
 	 * @return New WikiSearch object.
 	 */
-	public WikiSearch or(WikiSearch that) {
-//		System.out.println("THIS");
-//		System.out.println(this.map.keySet());
-//		System.out.println(this.map.values());
-//		System.out.println("THAT");
-//		System.out.println(that.map.keySet());
-//		System.out.println(that.map.values());
-		
+	public WikiSearch or(WikiSearch that) {		
         Set<String> urls_1 = this.map.keySet();
         Set<String> urls_2 = that.map.keySet();
         Set<String> total_urls = new HashSet<String>(urls_1);
         total_urls.addAll(urls_2);
         
-//        System.out.println(total_urls.addAll(urls_2));
-//        System.out.println("MADE IT HERE");
-//        System.out.println(urls_1);
-//        System.out.println(urls_2);
-      
-//        System.out.println("UNION");
-//        System.out.println(total_urls);
         Map<String, Integer> final_map = new HashMap<String, Integer>();
         for (String url: total_urls){
         	if (urls_1.contains(url) && urls_2.contains(url)){
@@ -245,23 +231,13 @@ public class WikiSearch {
 	}
 	
 	public List<Entry<String, Integer>> sort() {
-//		System.out.println("ORIGINAL LIST");
-//		System.out.println(map.keySet());
-//		System.out.println(map.values());
-		
 		List<List_Item> sort_list = new ArrayList<List_Item>();
 		for (String url: map.keySet()){
 			List_Item list_item = new List_Item(url,getRelevance(url));
 			sort_list.add(list_item);
 		}
 		Collections.sort(sort_list);
-		
-//		System.out.println("SORTED LIST");
-//		for (List_Item item: sort_list){
-//			System.out.println(item.url);
-//		}
-		
-		
+			
 		List<Entry<String, Integer>> final_list = new ArrayList<Entry<String, Integer>>();
 		for (int i = 0; i < map.size(); i++) {
 			Map.Entry<String, Integer> empty = new MyEntry("nothing",0);
@@ -273,19 +249,13 @@ public class WikiSearch {
 		
 		for (Entry<String,Integer> entry : map.entrySet()){
 			String name = entry.getKey();
-//			System.out.println("ENTRY CONSIDERED " + name );
 //			int value = entry.getValue();
-//			System.out.println("ENTRY SCORE " + value );
 			for (List_Item item: sort_list){
 				if (item.url == name){
-//					System.out.println("MATCHES ITEM " + name);
 					List_Item final_item = item;
 					int index = sort_list.indexOf(final_item);
 					final_list.remove(index);
-//					System.out.println("SHOULD BE AT INDEX " + index);
-					final_list.add(index, entry);
-//					System.out.println("ADDED TO FINAL LIST");
-					
+					final_list.add(index, entry);					
 //					for (Map.Entry<String, Integer> abc: final_list){
 //						System.out.println(abc.getKey());
 //					}
@@ -301,7 +271,6 @@ public class WikiSearch {
 
 		} 
 		Collections.reverse(final_list);
-//		System.out.println("FINAL LIST: " + final_list);
 		return final_list;
 	}
 
@@ -338,8 +307,8 @@ public class WikiSearch {
 			String[] terms = input.split("\\s+");
 			ArrayList<WikiSearch> searches = new ArrayList<WikiSearch>();
 			//calls search on each term in the list
+			System.out.println("Starting search........");
 			for(String term: terms){
-				System.out.println("Starting search........");
 				searches.add(search(term, index));
 			}
 			//creates the final map that totals up all of the final counts for each URL
@@ -371,22 +340,26 @@ public class WikiSearch {
 			for(String url: finalList){
 				System.out.println(url);
 			}
-			//System.out.println(finalList.toString());
-			System.out.println(totals.toString());
 			if(finalList.size() != 0){
-				System.out.println("Based on page similarity, you might also like to read:");
 				WikiFetcher wf = new WikiFetcher();
 				String best_url = finalList.get(0);
 				Elements paragraphs = wf.readWikipedia(best_url);
-				System.out.println(best_url);
 				List<String> recommendations = index.findMostSimilar(best_url, paragraphs);
-				for(String page: recommendations){
-					System.out.println(page);
+				//if there are recommendations, list them
+				if(recommendations.size() != 0){
+					System.out.println("Based on page similarity, you might also like to read:");
+					for(String page: recommendations){
+						System.out.println(page);
+					}
+				}
+				else{
+					System.out.println("Sorry, no recommendations for given term");
 				}
 			}
 			else{
 				System.out.println("Page for given term could not be found \nPlease try searching a different term");
 			}
+			System.out.println();
 			
 //			for(WikiSearch search: searches){
 //				if(search.getTopEntry() != null){

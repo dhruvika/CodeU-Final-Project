@@ -308,19 +308,16 @@ public class JedisIndex {
 		Elements paragraphs2;
 		int similarity = 0;
 		
-//		System.out.println("ALL KEYS: " + termCounterKeys());
-		
 		// might not be the right list of all urls in the index test this!
 		for (String index_url: termCounterKeys()){
-			System.out.println(termCounterKeys().toString());
-			String actual = index_url.substring(12);
-			System.out.println(actual);
-			paragraphs2 = wf.readWikipedia(actual);
-			sent2 = getSentence(actual, paragraphs2);
-			similarity = findSimilarity(sent1, sent2);
-			System.out.println(similarity);
-			if (similarity > 10){
-				most_similar.add(actual);
+			if(!(url.equals(index_url.substring(12)))){
+				String actual = index_url.substring(12);
+				paragraphs2 = wf.readWikipedia(actual);
+				sent2 = getSentence(actual, paragraphs2);
+				similarity = findSimilarity(sent1, sent2);
+				if (similarity > 10){
+					most_similar.add(actual);
+				}
 			}
 		}
 		return most_similar;
