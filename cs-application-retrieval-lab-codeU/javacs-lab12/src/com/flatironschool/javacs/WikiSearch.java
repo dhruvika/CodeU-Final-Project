@@ -15,6 +15,7 @@ import java.util.Map.Entry;
 import java.util.Scanner;
 import java.util.Set;
 
+import org.apache.commons.lang3.text.WordUtils;
 import org.jsoup.select.Elements;
 
 import java.lang.Object;
@@ -300,6 +301,18 @@ public class WikiSearch {
 		return new WikiSearch(map);
 	}
 
+	private static String findTitle(String url) {
+		String newTitle = url.substring(url.lastIndexOf('/'));
+		if (newTitle.indexOf('_') != -1) {
+			newTitle = newTitle.substring(1);
+			newTitle = newTitle.replace('_', ' ');
+			if (newTitle.indexOf(' ') != -1)
+				WordUtils.capitalize(newTitle);
+		} else {
+			newTitle = newTitle.substring(1);
+		}
+		return newTitle;
+	}
 	
 	public static void main(String[] args) throws IOException {
 		
@@ -320,7 +333,7 @@ public class WikiSearch {
 			String[] terms = input.split("\\s+");
 			ArrayList<WikiSearch> searches = new ArrayList<WikiSearch>();
 			//calls search on each term in the list
-			System.out.println("Starting search........");
+			System.out.println("Starting search........" + "\n" +  "\n" + "Found on these Wiki Pages");
 			for(String term: terms){
 				searches.add(search(term, index, jedis));
 			}
@@ -349,9 +362,15 @@ public class WikiSearch {
 			        return popularity2.compareTo(popularity1);
 			    }
 			});
+			
+
 			//prints out links in order
+			int listNumber = 1;
 			for(String url: finalList){
-				System.out.println(url);
+				if (url.contains("https://en.wikipedia.org/wiki/")) {
+					System.out.println(listNumber + ".) " + findTitle(url));
+					listNumber++;
+				}
 			}
 			if(finalList.size() != 0){
 				WikiFetcher wf = new WikiFetcher();
@@ -360,7 +379,7 @@ public class WikiSearch {
 				List<String> recommendations = index.findMostSimilar(best_url, paragraphs);
 				//if there are recommendations, list them
 				if(recommendations.size() != 0){
-					System.out.println("Based on page similarity, you might also like to read:");
+					System.out.println("\n" + "Based on page similarity, you might also like to read:");
 					for(String page: recommendations){
 						System.out.println(page);
 					}
